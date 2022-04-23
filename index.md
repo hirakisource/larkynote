@@ -6,6 +6,7 @@
 
 - [ラーキーノート](#ラーキーノート)
     - [目次](#目次)
+    - [更新履歴](#更新履歴)
     - [概要](#概要)
       - [サイト情報](#サイト情報)
       - [この文書の必要性](#この文書の必要性)
@@ -95,6 +96,12 @@
         - [VSCode でちょっとでもMarkdown する](#vscode-でちょっとでもmarkdown-する)
     - [筆者について](#筆者について)
 
+### 更新履歴
+
+GitHubの"History for larkynote/index.md"を参照ください。
+
+https://github.com/hirakisource/larkynote/commits/main/index.md
+
 ### 概要
 ラーキーによる文書（ページ）です。
 
@@ -103,8 +110,9 @@
 :--|:--|
 名前|ラーキーノート |
 作者|ラーキー |
-URL|https://larkynote.web.fc2.com/|
+URL|https://hirakisource.github.io/larkynote/|
 開設日|2021年4月12日（月） |
+URL移転日|2022年4月24日（日）|
 
 #### この文書の必要性
 [筆者](#筆者について)による（筆者自身の）情報の整理および共有。
