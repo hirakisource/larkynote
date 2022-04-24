@@ -65,6 +65,7 @@
     - [哲学について](#哲学について)
       - [ヌーソロジーに関係する哲学](#ヌーソロジーに関係する哲学)
       - [ハイデガーについて（100分de名著 - NHK）](#ハイデガーについて100分de名著---nhk)
+        - [補足](#補足-1)
         - [番組の概要](#番組の概要)
         - [存在（ザイン）と存在者（ザイエント）](#存在ザインと存在者ザイエント)
         - [現存在（ダーザイン）](#現存在ダーザイン)
@@ -84,7 +85,10 @@
         - [決意](#決意)
         - [根源的な不安](#根源的な不安)
         - [死への先駆的決意性](#死への先駆的決意性)
-        - [補足](#補足-1)
+      - [ドゥルーズ『差異と反復』について](#ドゥルーズ差異と反復について)
+        - [用語](#用語)
+          - [表象=再現前化](#表象再現前化)
+        - [半田氏のブログ記事](#半田氏のブログ記事)
     - [おすすめの本・サイト](#おすすめの本サイト)
       - [ひふみ神示（岡本天明・著）](#ひふみ神示岡本天明著)
       - [波動の法則（足立育朗・著）](#波動の法則足立育朗著)
@@ -494,6 +498,10 @@ $ E=mc^2 $ というのは物質からエネルギーに変換する式ですが
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Φさんやnatanさんも紹介していましたが、ヌーソロジーに関心がある人は是非、観ておくことをお勧めします。 <a href="https://t.co/EDs9K7gCKq">https://t.co/EDs9K7gCKq</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1510598973576282113?ref_src=twsrc%5Etfw">April 3, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+##### 補足
+
+覚え書きなので、番組で言われていた内容と違っている箇所があるかもしれません。
+
 ##### 番組の概要
 
 マルティン・ハイデガーの哲学についての番組。指南役（解説）は戸谷洋志さん（[Twitter](https://twitter.com/toyahiroshi)）。31歳頃、著作が無く評価が得られなかったハイデガーは、かなりの急ピッチで「存在と時間」を出版したという。この著書によってハイデガーは功績を認められることになる。存在とは何か、ということについてハイデガーは独自の用語により述べていく。
@@ -615,9 +623,34 @@ $ E=mc^2 $ というのは物質からエネルギーに変換する式ですが
 
 いつか言おうと思っていることを先延ばしにしない。
 
-##### 補足
+#### ドゥルーズ『差異と反復』について
 
-覚え書きなので、番組で言われていた内容と違っている箇所があるかもしれません。
+##### 用語
+
+###### 表象=再現前化
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ドゥルーズの差異と反復。<br>「表象=再現前化」という語句が、度々登場してきます。<br>言葉によって表象の意味づけをすること、なんですね。 <a href="https://t.co/BrivH7Wvh2">https://t.co/BrivH7Wvh2</a></p>&mdash; ラーキー🤝 (@larkynote) <a href="https://twitter.com/larkynote/status/1517283125730365440?ref_src=twsrc%5Etfw">April 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">はい、さらに言えば、言葉によって知覚像を再現するということ。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1517294644052512768?ref_src=twsrc%5Etfw">April 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+##### 半田氏のブログ記事
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ドゥルーズの「差異と反復」の本が難しくて参考サイトを探していると、半田さんのブログ記事を見つけました。すごく参考になりました。<a href="https://t.co/4r0e7YlNun">https://t.co/4r0e7YlNun</a><a href="https://twitter.com/hashtag/%E3%83%8C%E3%83%BC%E3%82%BD%E3%83%AD%E3%82%B8%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#ヌーソロジー</a></p>&mdash; ラーキー🤝 (@larkynote) <a href="https://twitter.com/larkynote/status/1516985875535896578?ref_src=twsrc%5Etfw">April 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[差異と反復………1](https://www.noos.ne.jp/cavesyndrome/?p=2319)
+[差異と反復………2](https://www.noos.ne.jp/cavesyndrome/?p=2320)
+[差異と反復………3](https://www.noos.ne.jp/cavesyndrome/?p=2321)
+[差異と反復………4](https://www.noos.ne.jp/cavesyndrome/?p=2322)
+[差異と反復………5](https://www.noos.ne.jp/cavesyndrome/?p=2323)
+[差異と反復………6](https://www.noos.ne.jp/cavesyndrome/?p=2324)
+[差異と反復………7](https://www.noos.ne.jp/cavesyndrome/?p=2325)
+[差異と反復………8](https://www.noos.ne.jp/cavesyndrome/?p=2326)
+[差異と反復………9](https://www.noos.ne.jp/cavesyndrome/?p=2327)
+[差異と反復………10](https://www.noos.ne.jp/cavesyndrome/?p=2328)
+[差異と反復………11](https://www.noos.ne.jp/cavesyndrome/?p=2329)
+[差異と反復………12](https://www.noos.ne.jp/cavesyndrome/?p=2330)
+[差異と反復………13](https://www.noos.ne.jp/cavesyndrome/?p=2331)
+[差異と反復………14](https://www.noos.ne.jp/cavesyndrome/?p=2332)
 
 ### おすすめの本・サイト
 
