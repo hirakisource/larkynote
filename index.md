@@ -637,20 +637,20 @@ $ E=mc^2 $ というのは物質からエネルギーに変換する式ですが
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ドゥルーズの「差異と反復」の本が難しくて参考サイトを探していると、半田さんのブログ記事を見つけました。すごく参考になりました。<a href="https://t.co/4r0e7YlNun">https://t.co/4r0e7YlNun</a><a href="https://twitter.com/hashtag/%E3%83%8C%E3%83%BC%E3%82%BD%E3%83%AD%E3%82%B8%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#ヌーソロジー</a></p>&mdash; ラーキー🤝 (@larkynote) <a href="https://twitter.com/larkynote/status/1516985875535896578?ref_src=twsrc%5Etfw">April 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[差異と反復………1](https://www.noos.ne.jp/cavesyndrome/?p=2319)
-[差異と反復………2](https://www.noos.ne.jp/cavesyndrome/?p=2320)
-[差異と反復………3](https://www.noos.ne.jp/cavesyndrome/?p=2321)
-[差異と反復………4](https://www.noos.ne.jp/cavesyndrome/?p=2322)
-[差異と反復………5](https://www.noos.ne.jp/cavesyndrome/?p=2323)
-[差異と反復………6](https://www.noos.ne.jp/cavesyndrome/?p=2324)
-[差異と反復………7](https://www.noos.ne.jp/cavesyndrome/?p=2325)
-[差異と反復………8](https://www.noos.ne.jp/cavesyndrome/?p=2326)
-[差異と反復………9](https://www.noos.ne.jp/cavesyndrome/?p=2327)
-[差異と反復………10](https://www.noos.ne.jp/cavesyndrome/?p=2328)
-[差異と反復………11](https://www.noos.ne.jp/cavesyndrome/?p=2329)
-[差異と反復………12](https://www.noos.ne.jp/cavesyndrome/?p=2330)
-[差異と反復………13](https://www.noos.ne.jp/cavesyndrome/?p=2331)
-[差異と反復………14](https://www.noos.ne.jp/cavesyndrome/?p=2332)
+[差異と反復………1](https://www.noos.ne.jp/cavesyndrome/?p=2319)  
+[差異と反復………2](https://www.noos.ne.jp/cavesyndrome/?p=2320)  
+[差異と反復………3](https://www.noos.ne.jp/cavesyndrome/?p=2321)  
+[差異と反復………4](https://www.noos.ne.jp/cavesyndrome/?p=2322)  
+[差異と反復………5](https://www.noos.ne.jp/cavesyndrome/?p=2323)  
+[差異と反復………6](https://www.noos.ne.jp/cavesyndrome/?p=2324)  
+[差異と反復………7](https://www.noos.ne.jp/cavesyndrome/?p=2325)  
+[差異と反復………8](https://www.noos.ne.jp/cavesyndrome/?p=2326)  
+[差異と反復………9](https://www.noos.ne.jp/cavesyndrome/?p=2327)  
+[差異と反復………10](https://www.noos.ne.jp/cavesyndrome/?p=2328)  
+[差異と反復………11](https://www.noos.ne.jp/cavesyndrome/?p=2329)  
+[差異と反復………12](https://www.noos.ne.jp/cavesyndrome/?p=2330)  
+[差異と反復………13](https://www.noos.ne.jp/cavesyndrome/?p=2331)  
+[差異と反復………14](https://www.noos.ne.jp/cavesyndrome/?p=2332)  
 
 ### おすすめの本・サイト
 
