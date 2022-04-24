@@ -678,7 +678,7 @@ https://qiita.com/Yarakashi_Kikohshi/items/407f85ba2835d945dd5b
 職業|システムエンジニア |
 趣味|ヌーソロジー、漫画（画力は低いです） |
 著者近影| <img src="img/author.png" alt="著者近影" title="著者近影" width="50%" height="50%">|
-Twitter（ヌーソロジー用）|<a href="https://twitter.com/larkynote">https://twitter.com/larkynote</a> （バーチャル美少女ヌーソロジスト名義。参考：[土佐日記](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1436187044)、[バ美肉](https://ja.wikipedia.org/wiki/%E3%83%90%E7%BE%8E%E8%82%89)） |
+Twitter（ヌーソロジー用）|<a href="https://twitter.com/larkynote">https://twitter.com/larkynote</a>  |
 Twitter（情報共有・備忘録用）|<a href="https://twitter.com/hirakisource">https://twitter.com/hirakisource</a> |
 漫画|<a href="https://rookie.shonenjump.com/series/pGBIkZkx0Nw">100日後に読切を完成させるトラ（連載中）</a>|
 GitHub|[https://github.com/hirakisource](https://github.com/hirakisource)|
