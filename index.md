@@ -90,15 +90,19 @@
       - [波動の法則（足立育朗・著）](#波動の法則足立育朗著)
       - [流生命（下ヨシ子・著）](#流生命下ヨシ子著)
       - [シュタイナー研究室](#シュタイナー研究室)
+    - [Markdownについて](#markdownについて)
       - [Markdownの参考サイト](#markdownの参考サイト)
         - [VSCode : Markdown Preview Enhancedの見た目を良い感じにする](#vscode--markdown-preview-enhancedの見た目を良い感じにする)
         - [Visual Studio CodeのMarkdownプレビューにCSSを適用する](#visual-studio-codeのmarkdownプレビューにcssを適用する)
         - [VSCode でちょっとでもMarkdown する](#vscode-でちょっとでもmarkdown-する)
+    - [YouTube動画のブックマーク](#youtube動画のブックマーク)
+      - [漫画・イラスト](#漫画イラスト)
     - [筆者について](#筆者について)
+      - [基本項目](#基本項目)
 
 ### 更新履歴
 
-GitHubの"History for larkynote/index.md"を参照ください。
+GitHubの"History for larkynote/index.md"を参照ください。各履歴タイトルのリンクを押すと差分を確認できます。
 
 [https://github.com/hirakisource/larkynote/commits/main/index.md](https://github.com/hirakisource/larkynote/commits/main/index.md)
 
@@ -640,8 +644,11 @@ $ E=mc^2 $ というのは物質からエネルギーに変換する式ですが
 <a href="https://r5.quicca.com/~steiner/novalisnova/steiner/Steiner.html">シュタイナー研究室</a>
 <p>『シュタイナー思想とヌーソロジー』という本があることからもわかるように、ヌーソロジーと関係の深いシュタイナー思想に関するテキストが豊富なサイトです。</p>
 
-#### Markdownの参考サイト
+### Markdownについて
 （自分用の備忘録です。）
+
+#### Markdownの参考サイト
+
 ##### VSCode : Markdown Preview Enhancedの見た目を良い感じにする
 Markdown Preview Enhanced: Customize CSS
 http://www10209ue.sakura.ne.jp/52783964/
@@ -653,7 +660,17 @@ https://hachian.com/2020/08/17/vscode_markdown_css/
 ##### VSCode でちょっとでもMarkdown する
 https://qiita.com/Yarakashi_Kikohshi/items/407f85ba2835d945dd5b
 
+### YouTube動画のブックマーク
+
+#### 漫画・イラスト
+
+[十字線のアタリそのあとは…？顔をうまく描く本当に大事なポイント【どんな角度からでも描ける世界標準の顔の描き方③】](https://youtu.be/KbKTiGSRHig)
+
+- この動画のおかげでキャラクターの顔が描きやすくなりました。
+
 ### 筆者について
+
+#### 基本項目
 
 項目|内容 |
 :--|:--|
@@ -661,12 +678,15 @@ https://qiita.com/Yarakashi_Kikohshi/items/407f85ba2835d945dd5b
 職業|システムエンジニア |
 趣味|ヌーソロジー、漫画（画力は低いです） |
 著者近影| <img src="img/author.png" alt="著者近影" title="著者近影" width="50%" height="50%">|
-Twitter|<a href="https://twitter.com/larkynote">https://twitter.com/larkynote</a> （バーチャル美少女ヌーソロジスト名義。参考：[土佐日記](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1436187044)、[バ美肉](https://ja.wikipedia.org/wiki/%E3%83%90%E7%BE%8E%E8%82%89)） |
+Twitter（ヌーソロジー用）|<a href="https://twitter.com/larkynote">https://twitter.com/larkynote</a> （バーチャル美少女ヌーソロジスト名義。参考：[土佐日記](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1436187044)、[バ美肉](https://ja.wikipedia.org/wiki/%E3%83%90%E7%BE%8E%E8%82%89)） |
+Twitter（情報共有・備忘録用）|<a href="https://twitter.com/hirakisource">https://twitter.com/hirakisource</a> |
 漫画|<a href="https://rookie.shonenjump.com/series/pGBIkZkx0Nw">100日後に読切を完成させるトラ（連載中）</a>|
+GitHub|[https://github.com/hirakisource](https://github.com/hirakisource)|
 最近ハマっているもの|[Markdown](https://ja.wikipedia.org/wiki/Markdown), 自炊（もやし）|
 最近興味があるもの| 『差異と反復』（ドゥルーズ）、ベクトル、[宇宙際タイヒミュラー理論](https://ja.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E9%9A%9B%E3%82%BF%E3%82%A4%E3%83%92%E3%83%9F%E3%83%A5%E3%83%A9%E3%83%BC%E7%90%86%E8%AB%96) 、カタカムナ|
 好きな料理|実家の野菜ドライカレー、実家の玉ねぎと茄子の味噌炒め、実家のきんぴらごぼう|
 苦手な食品|豚肉、牛肉、馬肉、ビタミン等栄養成分配合食品、[純水](https://ja.wikipedia.org/wiki/%E7%B4%94%E6%B0%B4)（単純な蒸留水以外の純水）|
+
 
 ***
 [TOPに戻る](#ラーキーノート)
