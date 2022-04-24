@@ -100,7 +100,7 @@
 
 GitHubの"History for larkynote/index.md"を参照ください。
 
-https://github.com/hirakisource/larkynote/commits/main/index.md
+[https://github.com/hirakisource/larkynote/commits/main/index.md](https://github.com/hirakisource/larkynote/commits/main/index.md)
 
 ### 概要
 ラーキーによる文書（ページ）です。
@@ -111,7 +111,7 @@ https://github.com/hirakisource/larkynote/commits/main/index.md
 :--|:--|
 名前|ラーキーノート |
 作者|ラーキー |
-URL|https://hirakisource.github.io/larkynote/|
+URL|[https://hirakisource.github.io/larkynote/](https://hirakisource.github.io/larkynote/)|
 開設日|2021年4月12日（月） |
 URL移転日|2022年4月24日（日）|
 
