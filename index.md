@@ -93,11 +93,12 @@
           - [ハンナ・アーレント](#ハンナアーレント)
           - [ハンス・ヨナス](#ハンスヨナス)
           - [まとめ](#まとめ)
-      - [ハイデガー哲学（半田氏のTwitter）](#ハイデガー哲学半田氏のtwitter)
+      - [ハイデガー哲学（半田さんのTwitterより）](#ハイデガー哲学半田さんのtwitterより)
+      - [ハイデガー哲学（半田さんのブログ記事より）](#ハイデガー哲学半田さんのブログ記事より)
       - [ドゥルーズ『差異と反復』について](#ドゥルーズ差異と反復について)
         - [用語](#用語)
           - [表象=再現前化](#表象再現前化)
-        - [半田氏のブログ記事](#半田氏のブログ記事)
+        - [半田さんのブログ記事](#半田さんのブログ記事)
     - [おすすめの本・サイト](#おすすめの本サイト)
       - [ひふみ神示（岡本天明・著）](#ひふみ神示岡本天明著)
       - [波動の法則（足立育朗・著）](#波動の法則足立育朗著)
@@ -195,7 +196,7 @@ URL移転日|2022年4月24日（日）|
 #### トピック
 
 ##### 事実性に基づく思考
-半田氏のツイートより
+半田さんのツイートより
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ヌーソロジーの出自はチャネリングだが、基本的に事実性に基づく思考を重視している。外的、内的を問わず、事実であろうと思われる様々な事柄の関連性について思考を重ねていく。価値づけは各自ご自由に、という感じ。<br><br>ルドルフ・シュタイナー「事実から導かれる」<a href="https://t.co/OwSu7GpDWG">https://t.co/OwSu7GpDWG</a></p>— 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1372520676892930053?ref_src=twsrc%5Etfw">March 18, 2021</a></blockquote> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -230,7 +231,7 @@ URL移転日|2022年4月24日（日）|
 - [古神道の世界はシャーマニックというよりイデアリスティック？](https://www.noos.ne.jp/cavesyndrome/?p=7068)
 - [即位の礼と虹](https://www.noos.ne.jp/cavesyndrome/?p=8971)
 
-半田氏のツイートより
+半田さんのツイートより
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">奥行きに時空しか見てない人は魂の皮膚が破れて内蔵が全部飛び出してます。魂は死んでますよ。十種神宝ではこうした魂のことを死返玉（マカルガエシノタマ）と呼んでますね。カタチは双曲面です。</p>— 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/607861928241684481?ref_src=twsrc%5Etfw">June 8, 2015</a></blockquote> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -244,7 +245,7 @@ URL移転日|2022年4月24日（日）|
 
 ##### 客観的な3次元空間について
 
-半田氏のツイートより
+半田さんのツイートより
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">客観的な3次元空間を自明のものと考えている人が多いけど、そんなものが一体どこにあるのか一度疑ってみる必要がある。</p>— 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1496463335663222790?ref_src=twsrc%5Etfw">February 23, 2022</a></blockquote> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -483,7 +484,7 @@ p.234 「図15　背中合わせの自己と他者」
 
 $ E=mc^2 $ というのは物質からエネルギーに変換する式ですが、エネルギーから物質になる仕組みというのは解明されていません。エントロピー減少ということです。生物はネゲントロピーと言えます。生物の定義に関して、鉱物は無生物と思われていますが、ネゲントロピーの観点でいえば同じく生命と言えるかもしれません。
 
-（ソース：半田氏の動画）
+（ソース：半田さんの動画）
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">この切り抜きは非常に有り難いですね。ローレンツ収縮、E=mc^2、質量とは。生命とは。エントロピーとは。人間とは。時空とは。対称性の破れとは。そして愛とは。思考とは。<a href="https://twitter.com/hashtag/%E3%83%8C%E3%83%BC%E3%82%BD%E3%83%AD%E3%82%B8%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#ヌーソロジー</a> <a href="https://t.co/10qYOQlmiC">https://t.co/10qYOQlmiC</a></p>&mdash; ラーキー🍎🐦🦜 (@larkynote) <a href="https://twitter.com/larkynote/status/1506586115712897028?ref_src=twsrc%5Etfw">March 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
@@ -493,7 +494,7 @@ $ E=mc^2 $ というのは物質からエネルギーに変換する式ですが
 
 #### ヌーソロジーに関係する哲学
 
-半田氏のTwitterで取り上げられることがあります。ここでは哲学者の名前（一部）を列挙するにとどめます。（）内にTwitterでの検索ワードの例を併記しています。
+半田さんのTwitterで取り上げられることがあります。ここでは哲学者の名前（一部）を列挙するにとどめます。（）内にTwitterでの検索ワードの例を併記しています。
 
 - [ジル・ドゥルーズ](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%AB%E3%83%BB%E3%83%89%E3%82%A5%E3%83%AB%E3%83%BC%E3%82%BA)（『@kohsen ドゥルーズ』）
 - [マルティン・ハイデッガー](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%83%BB%E3%83%8F%E3%82%A4%E3%83%87%E3%83%83%E3%82%AC%E3%83%BC)（『@kohsen ハイデガー』）
@@ -660,13 +661,21 @@ $ E=mc^2 $ というのは物質からエネルギーに変換する式ですが
 
 本来性を取り戻したあとで、いかにして生きていくのか、ということを考える必要がある。
 
-#### ハイデガー哲学（半田氏のTwitter）
+#### ハイデガー哲学（半田さんのTwitterより）
 
 「自らを示すものを、それ自体の側から、自らを示すがままに示すようにさせること（ハイデガー）」というのは、ヌーソロジーの観点でも重要な姿勢だと言われています。
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">私たちはまず「自らを示すものを、それ自体の側から、自らを示すがままに示すようにさせること（ハイデガー）」ができるようにならないといけない。奥行きはそのような高次知覚のために準備された空間であり、この奥行きが先導する個々のモナド化において、Monoscracyは現実味を帯びていくだろう。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1492349457773785088?ref_src=twsrc%5Etfw">February 12, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">とうだい? ヌーソロジーの思考がハイデガーのいう「自らを示すものを、それ自体の側から、自らを示すがままに示すようにさせること」とまったく同じ意味を持っているということが分かるよね。かつ、ヌーソロジーの場合はこれに科学的裏付けがついてくる。この辺がとても面白いところなんだね。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1290163175401242624?ref_src=twsrc%5Etfw">August 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+#### ハイデガー哲学（半田さんのブログ記事より）
+
+記事のリンクです。
+
+[ハイデガー哲学とOCOT情報をミックスして語ってみる](https://www.noos.ne.jp/cavesyndrome/?p=8644)
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ヌーソロジーでよく言われるSU(2)（複素二次元特殊ユニタリー変換群/エス・ユー・ツー）について調べていると良い記事を見つけた。ハイデガー哲学にもつながっているそうだ。<a href="https://t.co/N18KGSphMU">https://t.co/N18KGSphMU</a></p>&mdash; ラーキー🤝 (@larkynote) <a href="https://twitter.com/larkynote/status/1518975431047016450?ref_src=twsrc%5Etfw">April 26, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### ドゥルーズ『差異と反復』について
 
@@ -678,7 +687,7 @@ $ E=mc^2 $ というのは物質からエネルギーに変換する式ですが
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">はい、さらに言えば、言葉によって知覚像を再現するということ。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1517294644052512768?ref_src=twsrc%5Etfw">April 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-##### 半田氏のブログ記事
+##### 半田さんのブログ記事
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ドゥルーズの「差異と反復」の本が難しくて参考サイトを探していると、半田さんのブログ記事を見つけました。すごく参考になりました。<a href="https://t.co/4r0e7YlNun">https://t.co/4r0e7YlNun</a><a href="https://twitter.com/hashtag/%E3%83%8C%E3%83%BC%E3%82%BD%E3%83%AD%E3%82%B8%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#ヌーソロジー</a></p>&mdash; ラーキー🤝 (@larkynote) <a href="https://twitter.com/larkynote/status/1516985875535896578?ref_src=twsrc%5Etfw">April 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
