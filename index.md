@@ -93,6 +93,7 @@
           - [ハンナ・アーレント](#ハンナアーレント)
           - [ハンス・ヨナス](#ハンスヨナス)
           - [まとめ](#まとめ)
+      - [ハイデガー哲学（半田氏のTwitter）](#ハイデガー哲学半田氏のtwitter)
       - [ドゥルーズ『差異と反復』について](#ドゥルーズ差異と反復について)
         - [用語](#用語)
           - [表象=再現前化](#表象再現前化)
@@ -658,6 +659,14 @@ $ E=mc^2 $ というのは物質からエネルギーに変換する式ですが
 ###### まとめ
 
 本来性を取り戻したあとで、いかにして生きていくのか、ということを考える必要がある。
+
+#### ハイデガー哲学（半田氏のTwitter）
+
+「自らを示すものを、それ自体の側から、自らを示すがままに示すようにさせること（ハイデガー）」というのは、ヌーソロジーの観点でも重要な姿勢だと言われています。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">私たちはまず「自らを示すものを、それ自体の側から、自らを示すがままに示すようにさせること（ハイデガー）」ができるようにならないといけない。奥行きはそのような高次知覚のために準備された空間であり、この奥行きが先導する個々のモナド化において、Monoscracyは現実味を帯びていくだろう。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1492349457773785088?ref_src=twsrc%5Etfw">February 12, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">とうだい? ヌーソロジーの思考がハイデガーのいう「自らを示すものを、それ自体の側から、自らを示すがままに示すようにさせること」とまったく同じ意味を持っているということが分かるよね。かつ、ヌーソロジーの場合はこれに科学的裏付けがついてくる。この辺がとても面白いところなんだね。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1290163175401242624?ref_src=twsrc%5Etfw">August 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### ドゥルーズ『差異と反復』について
 
