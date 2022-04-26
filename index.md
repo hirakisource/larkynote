@@ -26,6 +26,7 @@
         - [ヘキサチューブル談義](#ヘキサチューブル談義)
       - [トピック](#トピック)
         - [事実性に基づく思考](#事実性に基づく思考)
+        - [SU(2)（複素二次元特殊ユニタリー変換群/エス・ユー・ツー）](#su2複素二次元特殊ユニタリー変換群エスユーツー)
         - [元素の生成](#元素の生成)
         - [十種の神宝（とくさのかんだから）](#十種の神宝とくさのかんだから)
         - [客観的な3次元空間について](#客観的な3次元空間について)
@@ -217,6 +218,18 @@ URL移転日|2022年4月24日（日）|
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ヌーソロジーの良いところは、このような超越的世界を物質との対応関係で思考していくところです。事実性にもとづいた思考とはそのことを指しています。つまり決して超越することなく、物質を自らの精神との関係を通して超越論的に思考していくということ。これからの科学もそうなっていくと思います。</p>— 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1457379073500467206?ref_src=twsrc%5Etfw">November 7, 2021</a></blockquote> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">この図で示しているカタチは誰にでもイメージできるものです。量子力学との対応は、あくまでも垂子・垂質といったヌーソロジーの次元概念の事実性を裏付けるための作業であって、量子力学が本質というわけではありません。本質はカタチの方です。このカタチを見極めて行くことが重要。</p>— 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1458957769445314581?ref_src=twsrc%5Etfw">November 12, 2021</a></blockquote> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+##### SU(2)（複素二次元特殊ユニタリー変換群/エス・ユー・ツー）
+
+ヌーソロジーでよく言われるSU(2)（複素二次元特殊ユニタリー変換群/エス・ユー・ツー）について参考になる半田さんのブログ記事です。
+
+- [ハイデガー哲学とOCOT情報をミックスして語ってみる](https://www.noos.ne.jp/cavesyndrome/?p=8644)
+- [時代なき存在論の復活を！](https://www.noos.ne.jp/cavesyndrome/?p=8048)
+  - SU(2)のトポロジーのカタチとハイデガー、ドゥルーズといった哲学の関係性
+
+- [未来の地球
+](https://www.noos.ne.jp/cavesyndrome/?p=7930)
+  - （図）時間の結晶化が起こる仕組み
 
 ##### 元素の生成
 
