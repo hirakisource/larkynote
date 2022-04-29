@@ -791,6 +791,8 @@ Twitter（ヌーソロジー用）|<a href="https://twitter.com/larkynote">https
 Twitter（情報共有・備忘録用）|<a href="https://twitter.com/hirakisource">https://twitter.com/hirakisource</a> |
 漫画|<a href="https://rookie.shonenjump.com/series/pGBIkZkx0Nw">100日後に読切を完成させるトラ（連載中）</a>|
 GitHub|[https://github.com/hirakisource](https://github.com/hirakisource)|
+GitHub Pages(hirakisource)|[https://hirakisource.github.io/hirakisource/](https://hirakisource.github.io/hirakisource/)|
+GitHub Pages(larkynote)|[https://hirakisource.github.io/larkynote/](https://hirakisource.github.io/larkynote/)|
 最近ハマっているもの|[Markdown](https://ja.wikipedia.org/wiki/Markdown), 自炊（もやし）|
 最近興味があるもの| 『差異と反復』（ドゥルーズ）、ベクトル、[宇宙際タイヒミュラー理論](https://ja.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E9%9A%9B%E3%82%BF%E3%82%A4%E3%83%92%E3%83%9F%E3%83%A5%E3%83%A9%E3%83%BC%E7%90%86%E8%AB%96) 、カタカムナ|
 好きな料理|実家の野菜ドライカレー、実家の玉ねぎと茄子の味噌炒め、実家のきんぴらごぼう|
