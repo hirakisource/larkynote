@@ -30,6 +30,7 @@
         - [元素の生成](#元素の生成)
         - [十種の神宝（とくさのかんだから）](#十種の神宝とくさのかんだから)
         - [客観的な3次元空間について](#客観的な3次元空間について)
+        - [イマージュについて](#イマージュについて)
         - [時間と別れるための50の方法](#時間と別れるための50の方法)
         - [『シリウス革命』の付箋](#シリウス革命の付箋)
           - [シリウス言語の基礎知識（シリウス革命p.28-29）](#シリウス言語の基礎知識シリウス革命p28-29)
@@ -279,6 +280,17 @@ URL移転日|2022年4月24日（日）|
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">図を添えておきます。第一の奥行きが垂子次元。第二の奥行きが垂質次元です。 <a href="https://t.co/ghuURAZl4e">pic.twitter.com/ghuURAZl4e</a></p>— 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1338307057280196608?ref_src=twsrc%5Etfw">December 14, 2020</a></blockquote> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+##### イマージュについて
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ベルクソンの持続論では宇宙はイマージュ（イメージの持続）の総体とされ、そこにはまだ表象がまとわりついていた。<br>ドゥルーズは表象を切り離し、そこに持続空間からなる多様体の構造を見た。この構造はドゥルーズ にとってのイデアに相当するが、ヌースはそのイデアを次元観察子として表現している。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1334330649642090498?ref_src=twsrc%5Etfw">December 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ヌーソロジーでは4次元空間を持続空間として考えます。ここはイマージュが活動する空間で、映画が表現している世界のようなものです。持続空間では、知覚や想起、また想像される瞬間性がすべてランダムに融合し、シーケンスやカットバック、スティル、ディゾルブ等の効果のもと自在に活動しています。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1439752260636975108?ref_src=twsrc%5Etfw">September 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+- シーケンスは連続する並びを意味する。
+
+- カットバックについての参考動画：[【映像豆知識】カットバックとフラッシュバック～空間と時間を超える映像表現～](https://youtu.be/TjOPm1MC6-M)
+- スティル（スチル）についての参考サイト：[スチール写真とは](https://delta.photo/basic/terms/still/)
+- ディゾルブについての参考サイト：[ディゾルブを活用した映像演出](https://www.adobe.com/jp/creativecloud/video/discover/dissolve.html)
 
 ##### 時間と別れるための50の方法
 
