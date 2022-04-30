@@ -292,6 +292,14 @@ URL移転日|2022年4月24日（日）|
 - スティル（スチル）についての参考サイト：[スチール写真とは](https://delta.photo/basic/terms/still/)
 - ディゾルブについての参考サイト：[ディゾルブを活用した映像演出](https://www.adobe.com/jp/creativecloud/video/discover/dissolve.html)
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">その意味で、私たちが見ている物質は瞬間のイメージにすぎない。しかし、瞬間だけでは物質とは呼べない。だからこそ、ベルクソンにとって&quot;物質は記憶&quot;なのだ。ヌーソロジーはこの考え方をベースに、イマージュがどのように組織化されていっているのかを見る。そこに観察子のシステムが働いている。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1445235606888464389?ref_src=twsrc%5Etfw">October 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">イマージュとは持続を伴ったイメージの意と理解するのが一番分かりやすい。例えば、運動は実在ではなくイマージュである。例えば車が目の前で走ってる。それはイマージュだ。イマージュは持続あっての働きなので、持続抜きの運動などはあり得ない。言い換えるなら、外などどこにもないということ。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1445233589973520389?ref_src=twsrc%5Etfw">October 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">元止揚空間Ψ7〜8は物理的には波動関数の階層的な集合体のようなもので、ベルクソン風に言うならイマージュの生成機構を担っている。例えばΨ3〜4は一つの対象のイマージュを作り出し、Ψ5〜6の中では別の無数のΨ3〜4と相互浸透している。その様子は波動関数の重ね合わせとなって現れている。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1445232078807658498?ref_src=twsrc%5Etfw">October 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">知覚が持続と協働で成り立っているとすれば、現実的な対象は存在しない。対象はすべてイマージュであり、イマージュだからこそ、知覚は主観性とつねに同居しているわけだ。波動関数の重ね合わせとは、このように対象を潜在的イマージュで覆っている己自身の持続を外部から見た姿に他ならない。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1358771459854716930?ref_src=twsrc%5Etfw">February 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ##### 時間と別れるための50の方法
 
 <p>半田広宣さんのブログ「<a href="https://www.noos.ne.jp/cavesyndrome/">cave syndrome</a>」の「時間と別れるための50の方法」のリンクをまとめています（連載の合間にあった記事も含めています）。</p>
