@@ -29,6 +29,7 @@
         - [SU(2)（複素二次元特殊ユニタリー変換群/エス・ユー・ツー）](#su2複素二次元特殊ユニタリー変換群エスユーツー)
         - [元素の生成](#元素の生成)
         - [十種の神宝（とくさのかんだから）](#十種の神宝とくさのかんだから)
+        - [実在ということについて](#実在ということについて)
         - [客観的な3次元空間について](#客観的な3次元空間について)
         - [イマージュについて](#イマージュについて)
         - [時間と別れるための50の方法](#時間と別れるための50の方法)
@@ -261,6 +262,21 @@ URL移転日|2022年4月24日（日）|
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">この境界としての鏡の話は昨日もしたけど、昔の日本の人たちはこの仕組みをよぉ〜く知っていた。物部神道の『十種神宝』伝には「オキツカガミとヘツカガミという二枚の鏡がツルギを通してタマになる」という話で出てくる。図でアバウトに示すとこんな感じだね。 <a href="https://t.co/3x7qjjdHhG">pic.twitter.com/3x7qjjdHhG</a></p>— 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/794756677174050816?ref_src=twsrc%5Etfw">November 5, 2016</a></blockquote> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">物理学や哲学が苦手な人は、物部氏の秘宝である「十種神宝」からヌーソロジーに侵入するという手もあるよ。 <a href="https://t.co/Z0MiPoVdoc">https://t.co/Z0MiPoVdoc</a> <a href="https://t.co/5TsPT5hyDH">pic.twitter.com/5TsPT5hyDH</a></p>— 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1361322239610605571?ref_src=twsrc%5Etfw">February 15, 2021</a></blockquote> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+##### 実在ということについて
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">荒っぽく簡単にまとめると、<br>「あるもの」で宇宙を考えるのが科学——実在論。<br>「いるもの」で宇宙を考えるのが宗教——観念論。<br>「なるもの」で宇宙を考える思考（ヌース）はまだ存在していない。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1335772377507004416?ref_src=twsrc%5Etfw">December 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">人間が普通、実在と考えている世界は、ヌーソロジーでいうところの「人間の内面」の世界のことであり、そこは実はまったく見えない世界であるということ。それを見える世界（物質世界）と呼んでいるのだから、この勘違いは本当に恐ろしい。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1331891980842848261?ref_src=twsrc%5Etfw">November 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">この図のウけが思ったよりよいのでちょっと説明。<br><br>●物から広がる空間、他者から広がる空間、自分から広がる空間。これら三つの空間を君は区別できるだろうか。もし区別できないのなら、君は「あるもの（物質界）」でしか空間を見ていない。素朴な実在感覚や科学的世界観がこの空間領域に当たる。 <a href="https://t.co/BZ6LkACGAU">pic.twitter.com/BZ6LkACGAU</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1339188833850519555?ref_src=twsrc%5Etfw">December 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">時間に対して流れという感覚を持ってしまうと、どうしても実在感覚を外の物質世界に感じてしまう。しかし、時間が内からの瞬間性の現れのようにして見えてくると、実在性は精神の内にあるという感覚に変わってくる。こうした時間の転回感覚は自己認識の変容のためには必須。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1508305358862766084?ref_src=twsrc%5Etfw">March 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">まさにアシカビヒコさんが言われているように、量子力学はすでに公理の段階で、新しい実在の在り方を古い実在感覚に訴えかけているのだと思います。実在は物質じゃねーよ。観測者だよと。知覚野（人間の外面）自体が存在論的差異です。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1456416866574868480?ref_src=twsrc%5Etfw">November 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">●物質とは瞬間性の異名にすぎない<br><br>多くの人は外に物質的な実在があると信じて疑わないが、それは記憶（持続）が支えているものだということ。記憶がなければ外界は前後の脈絡を欠いた瞬間の反復にすぎず、「ある」感覚すら生まれない。内在の思考はまずはこの持続感覚に身を浸すことから始まる。 <a href="https://t.co/UJumLi1wko">https://t.co/UJumLi1wko</a> <a href="https://t.co/CBqW80fzQL">pic.twitter.com/CBqW80fzQL</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1334323503151992833?ref_src=twsrc%5Etfw">December 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ##### 客観的な3次元空間について
 
