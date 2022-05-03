@@ -266,6 +266,8 @@ URL移転日|2022年4月24日（日）|
 
 ##### 実在ということについて
 
+[実在](https://kotobank.jp/word/%E5%AE%9F%E5%9C%A8-521343)とは、「意識から独立して客観的に存在する確かなもの」というような意味がありますが、はたしてそのようなものが存在すると言えるのでしょうか。実在すると思われている物質世界は、記憶という持続のはたらきと切り離して考えられるものなのでしょうか。実際の感覚（知覚）の観点から、認識を見直していきます。
+
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">荒っぽく簡単にまとめると、<br>「あるもの」で宇宙を考えるのが科学——実在論。<br>「いるもの」で宇宙を考えるのが宗教——観念論。<br>「なるもの」で宇宙を考える思考（ヌース）はまだ存在していない。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1335772377507004416?ref_src=twsrc%5Etfw">December 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">人間が普通、実在と考えている世界は、ヌーソロジーでいうところの「人間の内面」の世界のことであり、そこは実はまったく見えない世界であるということ。それを見える世界（物質世界）と呼んでいるのだから、この勘違いは本当に恐ろしい。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1331891980842848261?ref_src=twsrc%5Etfw">November 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
