@@ -68,6 +68,7 @@
         - [無核質の反映は植物](#無核質の反映は植物)
         - [垂質の双対性について](#垂質の双対性について)
         - [色即是空、空即是色](#色即是空空即是色)
+        - [生命の樹について](#生命の樹について)
     - [哲学について](#哲学について)
       - [ヌーソロジーに関係する哲学](#ヌーソロジーに関係する哲学)
       - [ハイデガーについて（100分de名著 - NHK）](#ハイデガーについて100分de名著---nhk)
@@ -547,6 +548,11 @@ $ E=mc^2 $ というのは物質からエネルギーに変換する式ですが
 （ソース：半田さんの動画）
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">この切り抜きは非常に有り難いですね。ローレンツ収縮、E=mc^2、質量とは。生命とは。エントロピーとは。人間とは。時空とは。対称性の破れとは。そして愛とは。思考とは。<a href="https://twitter.com/hashtag/%E3%83%8C%E3%83%BC%E3%82%BD%E3%83%AD%E3%82%B8%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#ヌーソロジー</a> <a href="https://t.co/10qYOQlmiC">https://t.co/10qYOQlmiC</a></p>&mdash; ラーキー🍎🐦🦜 (@larkynote) <a href="https://twitter.com/larkynote/status/1506586115712897028?ref_src=twsrc%5Etfw">March 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+##### 生命の樹について
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ルーリアカバラに言う「容器の破壊」と、ハイデガー に言う「存在忘却」は同じことを意味している。聖書における楽園からの追放にしても同じ。神秘主義、哲学、宗教の垣根を超えたところで思考しよう。 <a href="https://t.co/cYWGRWQFpP">pic.twitter.com/cYWGRWQFpP</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1522033102662828032?ref_src=twsrc%5Etfw">May 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">カバラとOCOT情報は表現の違いこそあれ、同じ宇宙観を語っています。対応は以下の通り。<br><br>クリフォト………付帯質の外面<br>アッシャー………付帯質の内面への方向性<br>イェッツェラー………付帯質の内面<br>ベリアー………精神の内面<br>アツィルト………精神の外面</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1522035134354313219?ref_src=twsrc%5Etfw">May 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 哲学について
 
