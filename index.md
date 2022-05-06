@@ -30,6 +30,7 @@
         - [元素の生成](#元素の生成)
         - [十種の神宝（とくさのかんだから）](#十種の神宝とくさのかんだから)
         - [実在ということについて](#実在ということについて)
+        - [カイラル対称性の破れ](#カイラル対称性の破れ)
         - [客観的な3次元空間について](#客観的な3次元空間について)
         - [イマージュについて](#イマージュについて)
         - [時間と別れるための50の方法](#時間と別れるための50の方法)
@@ -280,6 +281,10 @@ URL移転日|2022年4月24日（日）|
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">まさにアシカビヒコさんが言われているように、量子力学はすでに公理の段階で、新しい実在の在り方を古い実在感覚に訴えかけているのだと思います。実在は物質じゃねーよ。観測者だよと。知覚野（人間の外面）自体が存在論的差異です。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1456416866574868480?ref_src=twsrc%5Etfw">November 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">●物質とは瞬間性の異名にすぎない<br><br>多くの人は外に物質的な実在があると信じて疑わないが、それは記憶（持続）が支えているものだということ。記憶がなければ外界は前後の脈絡を欠いた瞬間の反復にすぎず、「ある」感覚すら生まれない。内在の思考はまずはこの持続感覚に身を浸すことから始まる。 <a href="https://t.co/UJumLi1wko">https://t.co/UJumLi1wko</a> <a href="https://t.co/CBqW80fzQL">pic.twitter.com/CBqW80fzQL</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1334323503151992833?ref_src=twsrc%5Etfw">December 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+##### カイラル対称性の破れ
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">資源の究極とは質量と言えると思うが、物理学では質量はカイラル対称性の破れからやってくる。これを「愛の力」と呼ぶ物理学者はまだいない。人間の世界は愛を質量として受け止めることしかできず、しかもそれをエネルギーとして浪費する。受け止めている限りは愛ある世界なんてものはやってこない。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1481285465362006021?ref_src=twsrc%5Etfw">January 12, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ##### 客観的な3次元空間について
 
