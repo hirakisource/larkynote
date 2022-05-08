@@ -115,6 +115,7 @@
         - [Visual Studio CodeのMarkdownプレビューにCSSを適用する](#visual-studio-codeのmarkdownプレビューにcssを適用する)
         - [VSCode でちょっとでもMarkdown する](#vscode-でちょっとでもmarkdown-する)
     - [YouTube動画のブックマーク](#youtube動画のブックマーク)
+      - [科学](#科学)
       - [漫画・イラスト](#漫画イラスト)
     - [筆者について](#筆者について)
       - [基本項目](#基本項目)
@@ -819,6 +820,10 @@ https://hachian.com/2020/08/17/vscode_markdown_css/
 https://qiita.com/Yarakashi_Kikohshi/items/407f85ba2835d945dd5b
 
 ### YouTube動画のブックマーク
+
+#### 科学
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">そもそも対称性とは。ラグランジアンなどについてわかりやすい動画を視聴しました。<a href="https://twitter.com/hashtag/%E3%83%A9%E3%83%BC%E3%82%AD%E3%83%BC%E3%83%8E%E3%83%BC%E3%83%88?src=hash&amp;ref_src=twsrc%5Etfw">#ラーキーノート</a><a href="https://t.co/R8WkPeha6N">https://t.co/R8WkPeha6N</a></p>&mdash; ラーキー (@larkynote) <a href="https://twitter.com/larkynote/status/1523127613425860609?ref_src=twsrc%5Etfw">May 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### 漫画・イラスト
 
