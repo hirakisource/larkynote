@@ -756,6 +756,12 @@ $ E=mc^2 $ というのは物質からエネルギーに変換する式ですが
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">とうだい? ヌーソロジーの思考がハイデガーのいう「自らを示すものを、それ自体の側から、自らを示すがままに示すようにさせること」とまったく同じ意味を持っているということが分かるよね。かつ、ヌーソロジーの場合はこれに科学的裏付けがついてくる。この辺がとても面白いところなんだね。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1290163175401242624?ref_src=twsrc%5Etfw">August 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ハイデガー哲学の初期の構成をケイブコンパスで見ると、下のような感じ。ケイブコンパスの見方が分かっている人は、是非、そのイメージにトライを。ハイデガーの思考がよく理解できるようになります。 <a href="https://t.co/2HCaHBdBGj">pic.twitter.com/2HCaHBdBGj</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1524227358349496325?ref_src=twsrc%5Etfw">May 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ケイブコンパスの内側の円で示したところ（元止揚）はモノに当たるので、すべてはモノの運動ということになる。このときのモノというのがハイデガーのいう&quot;存在&quot;だね。モノを単なる対象として見ている限り、存在は忘れ去られたままだっていうこと。それが「存在忘却」の意。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1524229724574486528?ref_src=twsrc%5Etfw">May 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">同時に、このケイブコンパスは核子の構造にもなっているので、ヌーソロジーでは、素粒子知覚が存在を開示してくる、という話につながっている。ここがハイデガーとは違うところ。ヌーソロジーは民族の生起などといった話には行かず、自然そのものの中への侵入という話になっていく。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1524231849404682240?ref_src=twsrc%5Etfw">May 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 #### ハイデガー哲学（半田さんのブログ記事より）
 
 記事のリンクです。
