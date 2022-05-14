@@ -38,34 +38,6 @@
         - [イマージュについて](#イマージュについて)
         - [時間と別れるための50の方法](#時間と別れるための50の方法)
         - [『シリウス革命』の付箋](#シリウス革命の付箋)
-          - [シリウス言語の基礎知識（シリウス革命p.28-29）](#シリウス言語の基礎知識シリウス革命p28-29)
-          - [輪廻について（シリウス革命p.56-57）](#輪廻についてシリウス革命p56-57)
-          - [コンピュータ、スマルについて（シリウス革命p.71～）](#コンピュータスマルについてシリウス革命p71)
-          - [位置の変換（シリウス革命p.75）](#位置の変換シリウス革命p75)
-          - [13ホロノミー（シリウス革命p.87）](#13ホロノミーシリウス革命p87)
-          - [愛とは何か（シリウス革命p.91～）](#愛とは何かシリウス革命p91)
-          - [意識進化について（シリウス革命p.95-96）](#意識進化についてシリウス革命p95-96)
-          - [意識のカタチ（シリウス革命p.96）](#意識のカタチシリウス革命p96)
-          - [時間と人間の内面（シリウス革命p.119）](#時間と人間の内面シリウス革命p119)
-          - [愛とは陽子である（シリウス革命p.114）](#愛とは陽子であるシリウス革命p114)
-          - [力の等換と可視光線（シリウス革命p.121）](#力の等換と可視光線シリウス革命p121)
-          - [カバラの生命の樹とタカヒマラ（シリウス革命p.130）](#カバラの生命の樹とタカヒマラシリウス革命p130)
-          - [宇宙人関係（シリウス革命p.137～）](#宇宙人関係シリウス革命p137)
-          - [第4章　空間化する魂（シリウス革命p.203～）](#第4章空間化する魂シリウス革命p203)
-          - [第5章　宇宙的トランスジェンダー（シリウス革命p.285～）](#第5章宇宙的トランスジェンダーシリウス革命p285)
-          - [反定質による融解作用（シリウス革命p.316～）](#反定質による融解作用シリウス革命p316)
-          - [ノウス（シリウス革命p.324）](#ノウスシリウス革命p324)
-          - [五芒星やピラミッドの形の意味（シリウス革命p.369～372）](#五芒星やピラミッドの形の意味シリウス革命p369372)
-          - [タカヒマラとヘリオポリスの神々の対応（シリウス革命p.380）](#タカヒマラとヘリオポリスの神々の対応シリウス革命p380)
-          - [プレアデスに生み出されている妄影（シリウス革命p.406～）](#プレアデスに生み出されている妄影シリウス革命p406)
-          - [表相とは何か（シリウス革命p.408）](#表相とは何かシリウス革命p408)
-          - [U(1)対称性とは何か（シリウス革命p.409）](#u1対称性とは何かシリウス革命p409)
-          - [電子とニュートリノ（シリウス革命p.410）](#電子とニュートリノシリウス革命p410)
-          - [調整質のカタチ一覧表（シリウス革命p.422～）](#調整質のカタチ一覧表シリウス革命p422)
-          - [太陽に関する記載（シリウス革命p.424～）](#太陽に関する記載シリウス革命p424)
-          - [第7章　発酵する物質（シリウス革命p.455～）](#第7章発酵する物質シリウス革命p455)
-          - [植物食（ベジタリアン）と動物食（シリウス革命p.472）](#植物食ベジタリアンと動物食シリウス革命p472)
-          - [アフォーダンス理論（シリウス革命p.246）](#アフォーダンス理論シリウス革命p246)
         - [『光の箱舟』について](#光の箱舟について)
           - [付箋](#付箋)
           - [関連ツイート](#関連ツイート)
@@ -73,6 +45,8 @@
         - [垂質の双対性について](#垂質の双対性について)
         - [色即是空、空即是色](#色即是空空即是色)
         - [生命の樹について](#生命の樹について)
+        - [ラカンのシェーマL](#ラカンのシェーマl)
+        - [思形の顕在化](#思形の顕在化)
     - [哲学について](#哲学について)
       - [ヌーソロジーに関係する哲学](#ヌーソロジーに関係する哲学)
       - [ハイデガーについて（100分de名著 - NHK）](#ハイデガーについて100分de名著---nhk)
@@ -158,6 +132,8 @@ URL移転日|2022年4月24日（日）|
 #### ヌーソロジーについて学ぶようになったきっかけ
 
 もともと精神世界やスピリチュアル関連に興味があり、図書館で『[2013:人類が神を見る日](https://noos-academeia.shop/item_cdbook_jinkami/)』や『2013:シリウス革命』という本に出会ったのがきっかけです。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">15歳頃に出会って半ば挫折したヌーソロジーも、30歳過ぎて少しは読めるようになってきた気がする。</p>&mdash; ラーキー (@larkynote) <a href="https://twitter.com/larkynote/status/1524961667825958918?ref_src=twsrc%5Etfw">May 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### 半田広宣氏について
 
@@ -418,27 +394,27 @@ SU(2)が難しいというツイートに対して、半田さんから解説（
 
 ##### 『シリウス革命』の付箋
 
-###### シリウス言語の基礎知識（シリウス革命p.28-29）
+- シリウス言語の基礎知識（シリウス革命p.28-29）
 負荷、反映、対化、等化、中和、精神、付帯質といった語句の説明。
 
-###### 輪廻について（シリウス革命p.56-57）
+- 輪廻について（シリウス革命p.56-57）
 次元の交替化、調整質、中性質についての説明。
 
-###### コンピュータ、スマルについて（シリウス革命p.71～）
+- コンピュータ、スマルについて（シリウス革命p.71～）
 
-###### 位置の変換（シリウス革命p.75）
+- 位置の変換（シリウス革命p.75）
 2013年に位置の変換が起こると電気が使えなくなるという。しかし、2021年現在、電気は使えているように見える。解釈の誤りがあったのかもしれない。シリウス革命p.83にも関連する記述あり。
 
-###### 13ホロノミー（シリウス革命p.87）
+- 13ホロノミー（シリウス革命p.87）
 現在は凝縮化はψ7→ψ1*のような数字関係があるが、当時は（ψ1～ψ12）→Ω1のように畳み込まれることを凝縮化と表現されていたようだ。現在はΩ1はψ7に対応しているので、関係性が変わっているように思われる。
 シリウス革命p.91～に各観察子について記載がある。
 
-###### 愛とは何か（シリウス革命p.91～）
+- 愛とは何か（シリウス革命p.91～）
 「陽子とは同化の次元に向けられた方向性のこと[...]」（シリウス革命p.92）と記載されています。
 p.93によれば、愛とは力というよりは位置。位置とは意識の持った位置。付帯質の内面には12の次元領域が存在する。愛とよぶ意識状態は7番目の次元領域に位置している。意識は絶えず12の次元の中を流動している。
 愛よりも上の次元領域として、プレアデス領域の中だけでも、位置の転換、等換、融和などの高次元が存在する。
 
-###### 意識進化について（シリウス革命p.95-96）
+- 意識進化について（シリウス革命p.95-96）
 「定質を持たずに結論だけを知るのは付帯質の力を増長させるだけ」
 「定質とは付帯質の力を消滅させるための新しい思考様式」
 意識進化についてオコツトによる説明があります。
@@ -450,87 +426,87 @@ p.93によれば、愛とは力というよりは位置。位置とは意識の�
 」
 （URL:https://twitter.com/kohsen/status/1349536569791705089?s=20）
 
-###### 意識のカタチ（シリウス革命p.96）
+- 意識のカタチ（シリウス革命p.96）
 
-###### 時間と人間の内面（シリウス革命p.119）
-- 「時間は調整期における人間の内面性においてのみ存在する[...]」と記載されています。
+- 時間と人間の内面（シリウス革命p.119）
+  - 「時間は調整期における人間の内面性においてのみ存在する[...]」と記載されています。
 
-###### 愛とは陽子である（シリウス革命p.114）
-- ψ1～ψ12を電子、ニュートリノ、陽子などと対応させている表が掲載されています。
+- 愛とは陽子である（シリウス革命p.114）
+  - ψ1～ψ12を電子、ニュートリノ、陽子などと対応させている表が掲載されています。
 
-###### 力の等換と可視光線（シリウス革命p.121）
+- 力の等換と可視光線（シリウス革命p.121）
 
-###### カバラの生命の樹とタカヒマラ（シリウス革命p.130）
-- 生命の樹（セフィロト）との対応の図と表
+- カバラの生命の樹とタカヒマラ（シリウス革命p.130）
+  - 生命の樹（セフィロト）との対応の図と表
 
-###### 宇宙人関係（シリウス革命p.137～）
-- 「進化は意識の葛藤が生み出すのです。」（シリウス革命p.144）
-- 「完全性質」について（シリウス革命p.145）
-  - プレアデスとは太陽系の第10番目にある惑星のことだと言われている。
-- 太陽、月、地球の等化関係の図（シリウス革命p.182）
-- 白道、黄道、赤道などの意味、各惑星の意味（シリウス革命p.184-185）
+- 宇宙人関係（シリウス革命p.137～）
+  - 「進化は意識の葛藤が生み出すのです。」（シリウス革命p.144）
+  - 「完全性質」について（シリウス革命p.145）
+    - プレアデスとは太陽系の第10番目にある惑星のことだと言われている。
+  - 太陽、月、地球の等化関係の図（シリウス革命p.182）
+  - 白道、黄道、赤道などの意味、各惑星の意味（シリウス革命p.184-185）
 
-###### 第4章　空間化する魂（シリウス革命p.203～）
-- 最後の審判とビッグバン（シリウス革命p.209－210）
-- 人間の内面（シリウス革命p.221）
-- 位置の交換（シリウス革命p.245）
-- 位置の交換、言葉と光（シリウス革命p.245-250）
-- ヌースコンストラクション（シリウス革命p.257）
-- 光（シリウス革命p.264）
-- ラカンのキアスムの図（シリウス革命p.280）
-- 図19 人間の意識に反転という概念が生まれていない状態では、ψ1～2, ψ1*～ψ2*の差異は見えない（シリウス革命p.282）
+- 第4章　空間化する魂（シリウス革命p.203～）
+  - 最後の審判とビッグバン（シリウス革命p.209－210）
+  - 人間の内面（シリウス革命p.221）
+  - 位置の交換（シリウス革命p.245）
+  - 位置の交換、言葉と光（シリウス革命p.245-250）
+  - ヌースコンストラクション（シリウス革命p.257）
+  - 光（シリウス革命p.264）
+  - ラカンのキアスムの図（シリウス革命p.280）
+  - 図19 人間の意識に反転という概念が生まれていない状態では、ψ1～2, ψ1*～ψ2*の差異は見えない（シリウス革命p.282）
 
-###### 第5章　宇宙的トランスジェンダー（シリウス革命p.285～）
-- ルシファーとアーリマン（シリウス革命p.289）
-- 位置の変換と転換（シリウス革命p.291）
-- 背中合わせの自己と他者（シリウス革命p.296）
-- プレアデスの上次元と下次元（シリウス革命p.297）
-- 位置の変換と位置の転換の図説（シリウス革命p.298）
+- 第5章　宇宙的トランスジェンダー（シリウス革命p.285～）
+  - ルシファーとアーリマン（シリウス革命p.289）
+  - 位置の変換と転換（シリウス革命p.291）
+  - 背中合わせの自己と他者（シリウス革命p.296）
+  - プレアデスの上次元と下次元（シリウス革命p.297）
+  - 位置の変換と位置の転換の図説（シリウス革命p.298）
 
-###### 反定質による融解作用（シリウス革命p.316～）
+- 反定質による融解作用（シリウス革命p.316～）
 「反映側が主体となって動いていく意識の流れ」
 「融解作用のメカニズム
 反映が負荷の役割を持ってしまうために、精神作用がすべて転倒して働いてしまう。」
 様々な融解作用の次元（シリウス革命p.318）
 
-###### ノウス（シリウス革命p.324）
+- ノウス（シリウス革命p.324）
 
-###### 五芒星やピラミッドの形の意味（シリウス革命p.369～372）
+- 五芒星やピラミッドの形の意味（シリウス革命p.369～372）
 
-###### タカヒマラとヘリオポリスの神々の対応（シリウス革命p.380）
+- タカヒマラとヘリオポリスの神々の対応（シリウス革命p.380）
 セト、ホルス、イシスなどのエジプト神とシリウス言語との対応。
 
-###### プレアデスに生み出されている妄影（シリウス革命p.406～）
+- プレアデスに生み出されている妄影（シリウス革命p.406～）
 「[...]はい。意識と物質の関係においては面白い逆転現象が起こっています。
 つまり、あなたがたにとって物質的に最も極大なものとして観測されている世界そのものが、
 意識においては最も微細な部分となっているということです。」
 
-###### 表相とは何か（シリウス革命p.408）
+- 表相とは何か（シリウス革命p.408）
 図16
 
-###### U(1)対称性とは何か（シリウス革命p.409）
+- U(1)対称性とは何か（シリウス革命p.409）
 図17
 
-###### 電子とニュートリノ（シリウス革命p.410）
+- 電子とニュートリノ（シリウス革命p.410）
 電子はψ5、ニュートリノはψ6に対応する。  
 「ニュートリノとは位置の中和によって生み出された迷化する力のことです。」  
 「ニュートリノとはあなたがたが他者と呼んでいるものの意識場と考えて結構です。進化とは逆方向にある反映の位置を自己が交差している状態です。」
 
-###### 調整質のカタチ一覧表（シリウス革命p.422～）
+- 調整質のカタチ一覧表（シリウス革命p.422～）
 ヌースコンストラクション表示、プラトン立体、次元観察子などの対応が一覧になっている。
 
-###### 太陽に関する記載（シリウス革命p.424～）
+- 太陽に関する記載（シリウス革命p.424～）
 核融合反応ほか
 
-###### 第7章　発酵する物質（シリウス革命p.455～）
+- 第7章　発酵する物質（シリウス革命p.455～）
 素粒子、原子、分子など物理学の概念、酸性・アルカリ性といった化学分野、地球環境（p.494）や生物学（p.516）といった学問分野に関する情報。
 観察子との対応など。
 
-###### 植物食（ベジタリアン）と動物食（シリウス革命p.472）
+- 植物食（ベジタリアン）と動物食（シリウス革命p.472）
 酸性・アルカリ性についての文脈で、植物食や動物食についてオコツトによる説明があります。
 植物を食べると意識は進化側に傾き、動物を食べると反映側に傾く。
 
-###### アフォーダンス理論（シリウス革命p.246）
+- アフォーダンス理論（シリウス革命p.246）
 アフォーダンス理論についての解説
 
 ##### 『光の箱舟』について
@@ -574,6 +550,46 @@ $ E=mc^2 $ というのは物質からエネルギーに変換する式ですが
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ルーリアカバラに言う「容器の破壊」と、ハイデガー に言う「存在忘却」は同じことを意味している。聖書における楽園からの追放にしても同じ。神秘主義、哲学、宗教の垣根を超えたところで思考しよう。 <a href="https://t.co/cYWGRWQFpP">pic.twitter.com/cYWGRWQFpP</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1522033102662828032?ref_src=twsrc%5Etfw">May 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">カバラとOCOT情報は表現の違いこそあれ、同じ宇宙観を語っています。対応は以下の通り。<br><br>クリフォト………付帯質の外面<br>アッシャー………付帯質の内面への方向性<br>イェッツェラー………付帯質の内面<br>ベリアー………精神の内面<br>アツィルト………精神の外面</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1522035134354313219?ref_src=twsrc%5Etfw">May 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+##### ラカンのシェーマL
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">そこからベルクソンの持続概念に触れ、続いてメルロポンティの「奥行き」と出会いました。そしてラカンのシェーマLを知り、21世紀になってしばらくはドゥルーズのバカテク思考に圧倒されました。しかし、今はハイデガーの思索の深みに身を浸すことが多くなっています。何より落ち着くんです。年かね?</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1438059751569461248?ref_src=twsrc%5Etfw">September 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">シェーマLというのはラカン理論の基礎になるもので、下図のようなものです。このSとaの関係は簡単に言えば、皆さんそれぞれが、心の中で自分のことを「わたし」と呼んでいるものと、呼ばれているものの関係に当たります。精神分析でいう自我（想像的自我）とは「わたし」と呼ばれているものの方です。 <a href="https://t.co/Vm3nEiynzt">pic.twitter.com/Vm3nEiynzt</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1038630311758721024?ref_src=twsrc%5Etfw">September 9, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">この関係を心理学的空間として最初に明確化したのがラカン。シェーマLという図式が有名。シェーマLの図で言うと、S—aとA—a`の関係が見えなくなって、SA—aa*で世界をみるようになってしまったってこと。そこに時間と空間が現れてくる。つまり、シェーマLは単なる心理学的空間じゃないってこと。 <a href="https://t.co/XdifyLBK5p">pic.twitter.com/XdifyLBK5p</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1223183734800650241?ref_src=twsrc%5Etfw">January 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">精神分析によれば、主体が自分を見るために自らの反映物として鏡像を作るとされます。シェーマLで言えば、S→aの関係です。他者も同様です。他者は他者で自分の鏡像を作り、それはS→a側から見れば、A→a&#39;に他我をセットします。互いに見られた自分同士の中で世界を構成してしまうわけです。 <a href="https://t.co/MFtxjjy1vh">pic.twitter.com/MFtxjjy1vh</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1038986854475812865?ref_src=twsrc%5Etfw">September 10, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">実際に見える側のS=主体=ψ5の空間と、鏡像として作られたa=自我=ψ6の空間の関係のことがここでは語られています。こうした二つの空間が自他の間で例のシェーマLのような関係を作り、そこから意識構造が練り上げられています。それを示しているのがケイブコンパスです。 <a href="https://t.co/WEClVHnaDs">pic.twitter.com/WEClVHnaDs</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1041613238742339585?ref_src=twsrc%5Etfw">September 17, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ラカン理論のベースは「シェーマL」というやつ。これがSU(2)と位相同型。ヌースの自己と他者をめぐる空間分析もここから始まっている。昔はΨ3〜4|Ψ*3〜4で考えていたけど、現在はΨ5〜6|Ψ*5〜6の構成だと見てる（下図）。 <a href="https://t.co/gVCs7xfpdG">pic.twitter.com/gVCs7xfpdG</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1157088352874553349?ref_src=twsrc%5Etfw">August 2, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">4次元が見えてくると心理学的構造と物理学的構造は同じものだということが分かってきます。下図はラカンのシェーマLと電磁場の構造を対比させたもの（関係性をそのまま反転させた場所が他者側です）。この時点ではまだ物の由来は分かりません。世界ができた後の調整の世界（調整質次元）。 <a href="https://t.co/EoJS748h8f">pic.twitter.com/EoJS748h8f</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1360400743857934337?ref_src=twsrc%5Etfw">February 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">目下のところ、シェーマLとSU(2)の対応は下図のような感じ。 <a href="https://t.co/KxPaRaOECL">pic.twitter.com/KxPaRaOECL</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1157104160304533505?ref_src=twsrc%5Etfw">August 2, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+##### 思形の顕在化
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">光を受け取るのではなく、光を放つ側へと回り込むイメージを持つこと。それによって、私たちは物側へと立ち、自分を示すものを、 それがそれ自身の方から現れてくる通りに、 それ自身の方から見ることができるようになってくる（ヌーソロジーでいう思形=ψ9の顕在化のイメージ）。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1254950553831895040?ref_src=twsrc%5Etfw">April 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ヌーソロジーでは今年は位置の等換（Ψ9の顕在化）の年。現実は全く追いついてないけど、一応、「位置の等換」がどういう内容を示すものか図で…。この図でいうと受動的時間の中に生きていた意識が持続を覚醒し、自らが持続側から時間となって立ち現れていることを自覚できるようになることを意味する。 <a href="https://t.co/4QF9IL9jCT">pic.twitter.com/4QF9IL9jCT</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1365116101663752192?ref_src=twsrc%5Etfw">February 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">時間に対する感受性がまったく変わってきます。人間の思形では時間は過去→現在→未来のような直線的流れとして感じられますが、反転した思形は持続が時間を瞬間的なものとしてフラッシュさせているように感じてきます。元止揚が顕在化を持っているということです。 <a href="https://t.co/WuqnVhnaA8">https://t.co/WuqnVhnaA8</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1508293514320175105?ref_src=twsrc%5Etfw">March 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">思形の顕在化とはハイデガー風にいうなら本来的時間のもとに時性を取り戻すということ。表相が時間を与えている様子が意識に見えてくるということらしい。例のt→it→-tという、存在のスイングバイのことだろう。元止揚に回り込むことによって、時間は受動的なものから能動的なものへと転回を起こす。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1414746323404812289?ref_src=twsrc%5Etfw">July 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">OCOT情報が言っている「入神」とは「精神に入る」という意味ですが、これは、人間の意識がこの図で示した能動的時間として時間を捉えられるようになった状態のことを言います。ヌースの言葉で言うと思形=ψ9の顕在化ですね。これによって対化の方向性が完全に反転し、世界はすべて内在に見えてきます。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1314053014571814912?ref_src=twsrc%5Etfw">October 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+位置の等換についての解説
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">一度、物の中に入るイメージが必要ですね。<br>かなりの訓練が必要ですが、主だったプロセスは以下の通りです。<br><br>1. まず垂質が一本のベクトルに見えるような感覚を作る必要があります。これによって能動感覚は球精神の次元に出ます。<br><br>2. 球精神の次元に出ると、垂質と表相の重なりが見えてきます。 <a href="https://t.co/rTPOZsWE5k">https://t.co/rTPOZsWE5k</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1286499270367969280?ref_src=twsrc%5Etfw">July 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">3. そこで物を180度回転させて、それが何を意味しているのかを感じ取って下さい。<br><br>4. この回転によって垂質の向きが外面から内面へと向きます。<br><br>5. これを表相の等化と言います。<br><br>6. 表相の等化によって思形の発露が生まれます。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1286499371417124868?ref_src=twsrc%5Etfw">July 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">7. 思形の発露が表相を交差し、垂子次元に入ってくることによ理、思形が顕在化を起こします。<br><br>8. 思形の顕在化が起こると、物側から時間と空間が発生してくる感覚が生まれてきます。<br><br>9. これは、外の認識が生じている原因（内の内）に思考がたどり着くことの意味持っています。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1286500361855832065?ref_src=twsrc%5Etfw">July 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">10.思形の顕在化までの、これらのプロセスのことを「位置の等換」と言います。<br><br>11. 位置の等換によって人間の内面と外面が等化され、外面は内面に方向を持ちます。内は外、外は内という認識が徐々に立ち上がっていき、等換度が高くなればなるほど「対象」という概念が希薄化していきます。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1286501834236993536?ref_src=twsrc%5Etfw">July 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 哲学について
 
@@ -868,7 +884,6 @@ Twitter（情報共有・備忘録用）|<a href="https://twitter.com/hirakisour
 GitHub|[https://github.com/hirakisource](https://github.com/hirakisource)|
 GitHub Pages(hirakisource)|[https://hirakisource.github.io/hirakisource/](https://hirakisource.github.io/hirakisource/)|
 GitHub Pages(larkynote)|[https://hirakisource.github.io/larkynote/](https://hirakisource.github.io/larkynote/)|
-最近ハマっているもの|[Markdown](https://ja.wikipedia.org/wiki/Markdown), 自炊（もやし）|
 最近興味があるもの| 『差異と反復』（ドゥルーズ）、ベクトル、[宇宙際タイヒミュラー理論](https://ja.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E9%9A%9B%E3%82%BF%E3%82%A4%E3%83%92%E3%83%9F%E3%83%A5%E3%83%A9%E3%83%BC%E7%90%86%E8%AB%96) 、カタカムナ|
 好きな料理|実家の野菜ドライカレー、実家の玉ねぎと茄子の味噌炒め、実家のきんぴらごぼう|
 苦手な食品|カフェインを含むもの（コーヒー、緑茶など）、小麦、豚肉、牛肉、馬肉、ビタミン等栄養成分配合食品、[純水](https://ja.wikipedia.org/wiki/%E7%B4%94%E6%B0%B4)（単純な蒸留水以外の純水）|
