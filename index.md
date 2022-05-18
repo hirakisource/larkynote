@@ -47,6 +47,7 @@
         - [生命の樹について](#生命の樹について)
         - [ラカンのシェーマL](#ラカンのシェーマl)
         - [思形の顕在化](#思形の顕在化)
+        - [巻き込みと繰り広げ](#巻き込みと繰り広げ)
     - [哲学について](#哲学について)
       - [ヌーソロジーに関係する哲学](#ヌーソロジーに関係する哲学)
       - [ハイデガーについて（100分de名著 - NHK）](#ハイデガーについて100分de名著---nhk)
@@ -592,6 +593,22 @@ $ E=mc^2 $ というのは物質からエネルギーに変換する式ですが
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">7. 思形の発露が表相を交差し、垂子次元に入ってくることによ理、思形が顕在化を起こします。<br><br>8. 思形の顕在化が起こると、物側から時間と空間が発生してくる感覚が生まれてきます。<br><br>9. これは、外の認識が生じている原因（内の内）に思考がたどり着くことの意味持っています。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1286500361855832065?ref_src=twsrc%5Etfw">July 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">10.思形の顕在化までの、これらのプロセスのことを「位置の等換」と言います。<br><br>11. 位置の等換によって人間の内面と外面が等化され、外面は内面に方向を持ちます。内は外、外は内という認識が徐々に立ち上がっていき、等換度が高くなればなるほど「対象」という概念が希薄化していきます。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1286501834236993536?ref_src=twsrc%5Etfw">July 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+##### 巻き込みと繰り広げ
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「巻き込み」と「繰り広げ」というのはドゥルーズの表現。<br>分かりやすい言葉で言えば、「なること」と「あらしめること」。「あらしめる」によって「なる」が「ある」として出現してくる。万物はすべてこの巻き込みと繰り広げを通した持続空間の多重性のプロセスの中に生じている。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1394508060081614853?ref_src=twsrc%5Etfw">May 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">空間が精神として開いてくると、物質は精神の対化における等化の運動のようなものに見えてきます。物側が自己と他者の持続空間を巻き込むようにして等化の運動を行なっているということです。巻き込み側の対化が原子核で、繰り広げ側の対化が電子殻です。両者は球精神と精神球として反転しています。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1486493217268940808?ref_src=twsrc%5Etfw">January 27, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">言葉を変えれば、繰り広げらた世界（表現されたもの）の中に巻き込み（表現するもの）を見るのではなく、巻き込まれた世界（表現するもの）の中から繰り広げ（表現されたもの）を見るということ。量子論的文脈はそれを僕らの思考に要請している。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/849780229086248961?ref_src=twsrc%5Etfw">April 6, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">地球の自転、月の公転、地球の公転。これらの回転はそれぞれに延長を巻き込み、その多重な空間の渦を中心に縮約し、投影している。その巻き込みの中心が太陽となって現れ、そこに核融合が起こっていると考えなくてはならない。言い換えれば、地球や月の回転が一体となって太陽は燃えているのだ。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/639243091329683456?ref_src=twsrc%5Etfw">September 3, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">時間も空間も素粒子構造においては巻き込み（implication）の働きを受け、複素円に丸め取られています。それを直線的に繰り広げ（explication）るのが運動量演算子やエネルギー演算子の役割です。量子力学では空間並進は運動量に、時間並進はエネルギーにそのまま反映されます。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/993422765880328195?ref_src=twsrc%5Etfw">May 7, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">おそらく、あらゆる事物の発生プロセスの原-理念はSU(2)にある。これが思考されなくてはならない。ドゥルーズ風に言うなら、この空間構造が巻き込みと繰り広げの原器になっている。ヌーソロジーでいう「人間の元止揚（ψ1〜8）」と「人間の調整質（ψ9〜10）」の関係だ。 <a href="https://t.co/lJ1JRgkw6q">pic.twitter.com/lJ1JRgkw6q</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/909965968360669184?ref_src=twsrc%5Etfw">September 19, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">繰り広げは必ず巻き込みを条件にしている。現行の物理がくから考えれば、おそらく始源の巻き込みはクォークのSU(2)（uとdによる２ × ２）から起こっている。そこから始源の空間と時間が繰り広げとして出現する。同時にこの繰り広げが２ × ２を陽子と中性子として表出させてくる。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/703857762808147968?ref_src=twsrc%5Etfw">February 28, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 哲学について
 
