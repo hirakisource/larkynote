@@ -24,6 +24,7 @@
       - [ヌーソロジー版"三種の神器"](#ヌーソロジー版三種の神器)
       - [ヘキサチューブルについて](#ヘキサチューブルについて)
         - [ヘキサチューブル談義](#ヘキサチューブル談義)
+      - [「ある、いる、なる」について](#あるいるなるについて)
       - [トピック](#トピック)
         - [事実性に基づく思考](#事実性に基づく思考)
         - [SU(2)（複素二次元特殊ユニタリー変換群/エス・ユー・ツー）](#su2複素二次元特殊ユニタリー変換群エスユーツー)
@@ -180,6 +181,22 @@ URL移転日|2022年4月24日（日）|
 ##### ヘキサチューブル談義
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLlvf0DINLrPla5L3SNnd9zXwwSyCvuivJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+#### 「ある、いる、なる」について
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">こうした「ある・いる・なる」の構成関係を最もコンパクトに表現しているのが次元観察子Ψのケイブコンパスだと思ってください（本質は大系観察子Ωの領域にある）。<br><br>ある……思形が生み出す人間の内面の意識<br>いる……感性が生み出す人間の外面の意識<br>なる……思形と感性によって隠蔽された元止揚領域 <a href="https://t.co/OxwLrndLsd">pic.twitter.com/OxwLrndLsd</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1353237262973038592?ref_src=twsrc%5Etfw">January 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ヌーソロジーに登場する元止揚（Ψ1〜8）、思形（Ψ9）、感性（Ψ10）という三位一体の概念は、ラカンのいう現実界・象徴界・想像界に似ている。順に、分かりやすく、「なる」世界、「ある」世界、「いる」世界と言い換えてもいいだろう。 <a href="https://t.co/51J2actm38">pic.twitter.com/51J2actm38</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1337951740323196928?ref_src=twsrc%5Etfw">December 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ヌースのいう「差異」とは単なる「違い」ということではなく存在論的差異のことです。存在論的差異とは端折って言うと、「あるもの」と「あらしめるもの」との違いです。ヌースでは「ある」と「あらしめる」の間に「いる」と「なる」という二段階の差異のプロセスがあると考えます。下図参照のこと。 <a href="https://t.co/XPqvdzyjGr">pic.twitter.com/XPqvdzyjGr</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1356889945487544321?ref_src=twsrc%5Etfw">February 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ヌースレクチャー2019シリーズ#5ではヌース的三位一体「ある」「いる」「なる」の空間的差異に重点を置いて話しました。対象を見るのではなく、空間を見ていくのがヌーソロジーのメタ知覚です。DVDは来年1月、リリース予定。 <a href="https://t.co/3Elrkxzj0x">pic.twitter.com/3Elrkxzj0x</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1335769244919721989?ref_src=twsrc%5Etfw">December 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">昨日の「ある・いる・なる・あらしめる」の位置をこの図に重ねておきますね。変換人には、「ある」がどのようにして生じてきたが「あらしめる」として見えています。この意識では「ある」が受動的なものではなく、能動的なものへと変わります。 <a href="https://t.co/fwoObIG1sx">pic.twitter.com/fwoObIG1sx</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1307875281655398400?ref_src=twsrc%5Etfw">September 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">大晦日にUPした「ある-いる-なる」の動画、割と評判がいいようだ。ここで紹介している大系観察子というのがヌースの構造論の土台のようなもので、この内部構造について細かく話して行くのがヌーソロジーだと思うといいよ。シュタイナー風に、<br><br>あるは体<br>いるは魂<br>なるは霊<br><br>と置き換えてもいいかもね。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1345546022408257537?ref_src=twsrc%5Etfw">January 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ヌース用語との対応は次の通り。<br><br>「あるもの」の世界………付帯質の外面<br>「いるもの」の世界………付帯質の内面への方向性<br>「なるもの」の世界………付帯質の内面<br><br>「ある」は「なる」を通してしか「ある」になれない。<br>そして、「なる」には「いる」を通してしか入れない。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1273798392431271936?ref_src=twsrc%5Etfw">June 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### トピック
 
