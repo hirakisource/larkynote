@@ -19,9 +19,12 @@
       - [ヌーソロジーについて学ぶようになったきっかけ](#ヌーソロジーについて学ぶようになったきっかけ)
       - [半田広宣氏について](#半田広宣氏について)
       - [ヌーソロジーの学び方について](#ヌーソロジーの学び方について)
+        - [ヌーソロジーは炙り出し](#ヌーソロジーは炙り出し)
       - [半田広宣氏の書籍](#半田広宣氏の書籍)
       - [ヌーソロジー関連サイト（一部）](#ヌーソロジー関連サイト一部)
       - [ヌーソロジー版"三種の神器"](#ヌーソロジー版三種の神器)
+      - [NC（ヌースコンストラクション）について](#ncヌースコンストラクションについて)
+      - [ケイブコンパスについて](#ケイブコンパスについて)
       - [ヘキサチューブルについて](#ヘキサチューブルについて)
         - [ヘキサチューブル談義](#ヘキサチューブル談義)
       - [「ある、いる、なる」について](#あるいるなるについて)
@@ -149,6 +152,12 @@ URL移転日|2022年4月24日（日）|
 
 ヌーソロジーの[公式サイト](https://noos-academeia.com/)ではヌーソロジーに関するテキストが公開されていたり、関連書籍や過去に行われた講演のDVDなどが販売されています。また、公式のYouTubeチャンネルである[NoosAcademeia](https://www.youtube.com/channel/UCSUeMDLbghlODolafChfbgw)では、一部の講演などの動画が公開されています。半田さんは[ヌーソロジー・サロン](https://community.camp-fire.jp/projects/view/404531)というオンラインサロンもされていて、こちらでは半田さんに直接質問をすることもできます。
 
+##### ヌーソロジーは炙り出し
+
+ヌーソロジーは[炙り出し](https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%B6%E3%82%8A%E3%81%A0%E3%81%97)のようなものだと言われています。ヌーソロジーで言われていることは最初はサッパリですが、事実性に基づいて、勝手な推測や妄想などを混ぜないで向き合っていると、次第に炙り出しのように自然とつながって浮かび上がってくる（何を言っているのかがわかってくる）ものだと思います。（ただし、自分なりにイメージしたり現実の感覚と照らし合わせることも大事だと思います。その結果としてヌーソロジーの理解が進む場合もあれば、派生として自分なりの世界観や知見が得られる場合もあると思います。各々の思想に関しては、混同せずに棲み分けることも大事だと思います。）
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ヌーソロジーの内容としては、今日は核質と無核質の意味が何となく分かったような分からないようなー、程度の話だったと思います。ヌーソロジーは炙り出しのようにしか分からない、と言うより炙り出しのように解像度が徐々に浮き上がってくるところが快感になってくるので、それでいいんです（笑）。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1423958123627257860?ref_src=twsrc%5Etfw">August 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 #### 半田広宣氏の書籍
 
 1. 半田広宣. 2013:人類が神を見る日. 徳間書店, 1997, 366p., ISBN 9784198606725.
@@ -175,6 +184,32 @@ URL移転日|2022年4月24日（日）|
 #### ヌーソロジー版"三種の神器"
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ちなみにヌーソロジーではこの三種の神器のことを〈Concptual-Equipment-Technē（概念-装置-技術）——略称CET〉と名付け、ヌーソロジーの作業でまさにセットで使用するって段取りになってる。 <a href="https://t.co/BXubejVFJm">pic.twitter.com/BXubejVFJm</a></p>— 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1058218235315740672?ref_src=twsrc%5Etfw">November 2, 2018</a></blockquote> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+#### NC（ヌースコンストラクション）について
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">結果的に、『人類が神を見る日』で紹介したNC（ヌースコンストラクション）とは、垂質の対化で表現した精神構造のベーシックの表現となっている。垂質は次元観察子で言うとψ5の球空間に対応している。無意識の主体ににおける最初の持続空間として働いている。 <a href="https://t.co/PZiMQFOyvt">pic.twitter.com/PZiMQFOyvt</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/932112405571629057?ref_src=twsrc%5Etfw">November 19, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">このNCは別名「覚醒球」とも呼ばれている。ここでいう覚醒とは意識の反転のことと考えていい。覚醒が起こると、&quot;物は垂質に見えてくる&quot;。それは、物が垂質の射影で成り立っているということを意味している。言うまでもなく、この射影とは「奥行き」の収縮と同じ意味。その始まりが素粒子だということ。 <a href="https://t.co/M3UygG83Ve">pic.twitter.com/M3UygG83Ve</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1327960301388537857?ref_src=twsrc%5Etfw">November 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">このNC図が端的に示していることは、自己と他者の間には3次元球面という決定的な亀裂が入っており、この亀裂に気づかない限り、調和的な統合は望めないということ。そして同時に、この3次元球面が物の起源にもなっているということ。物自体の認識は3次元球面の認識が生まれないと無理。 <a href="https://t.co/HnQFi9b4Qf">pic.twitter.com/HnQFi9b4Qf</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1327955241300500481?ref_src=twsrc%5Etfw">November 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「表相」ハンパない<br><br>NCでOCOTのいう&quot;表相&quot;という概念を示してみました。NCを構成する球空間がどれも3次元回転するところをイメージしてください。そのとき微動だにしないこの赤い線の部分が表相に当たります。OCOTは、ヒトとは「表相にすべての次元を見ているもののこと」といいます。 <a href="https://t.co/LJqysBkVLr">pic.twitter.com/LJqysBkVLr</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1452858364292071424?ref_src=twsrc%5Etfw">October 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">意識に位置が生まれたときに見えてくるのが下図に示したNC（ヌースコンストラクション）。 <a href="https://t.co/fC24Oc4zlP">pic.twitter.com/fC24Oc4zlP</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/900284416315891712?ref_src=twsrc%5Etfw">August 23, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">グローバル変換とローカル変換のイメージを図にするとこんな感じかなぁ。NC（ヌースコンストラクション）の基本構造になるね。 <a href="https://t.co/mKHv26EfTA">pic.twitter.com/mKHv26EfTA</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/737848254805606402?ref_src=twsrc%5Etfw">June 1, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">円心の概念が理解できてくると、NC(ヌースコンストラクション)の意味も徐々に分かってくると思うよ。物質の謎がようやく分かってくるってことだね。また、サロンで話していきます。もうすぐだね。ようやく、もうすぐ。ヒトの世界への曙は近い。 <a href="https://t.co/rLj5IN9vUG">pic.twitter.com/rLj5IN9vUG</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1426373339484876805?ref_src=twsrc%5Etfw">August 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">昨日の図で言えば、「位置の等化」と「位置の中和」の双対が作られたあとに見えてくる次元です。<br><br>「位置の等化」と「位置の中和」の双対はお馴染みのNC（ヌースコンストラクション）を意味します。<br><br>NCのことをOCOT情報は「覚醒球」と呼んでます。<br><br>対化の位置が覚醒したことを示す「始源」の意です。 <a href="https://t.co/wjoMTE9kqZ">pic.twitter.com/wjoMTE9kqZ</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1173779344717570048?ref_src=twsrc%5Etfw">September 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ヌーソロジー理解の基本は何と言ってもNCの描像に懸かっている。これら三つの玉を外から見るのではなく、実際にこの構造の中に入り、それぞれの球空間の次元の違いに気づくことが意識変容の引き金を引く。特に真ん中の「垂質」の描像が重要。垂質は持続空間であり、君の中の永遠が結晶化している場所。 <a href="https://t.co/V4YC3Tv85w">pic.twitter.com/V4YC3Tv85w</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1339021964531286017?ref_src=twsrc%5Etfw">December 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+#### ケイブコンパスについて
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ケイブコンパスはその名の通り、私たちが洞窟の影から解放されるための三段階のプロセスを示すものにもなっている。<br>・第1段階……壁に映る影への囚われ（潜在的調整）<br>・第2段階……洞窟の出口へと向かう反転（元止揚覚醒）<br>・第3段階……光としての自由（思形の顕在化）</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1528414341480841216?ref_src=twsrc%5Etfw">May 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">人間の外面は持続、人間の内面は延長。ハイデガーのいう時間性（投企）は思形に、非本来的自己（被投）は人間の内面のψ6に対応する。<a href="https://twitter.com/hashtag/%E3%83%8C%E3%83%BC%E3%82%BD%E3%83%AD%E3%82%B8%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#ヌーソロジー</a> <br><br>参考ツイート <a href="https://t.co/nl8jmvXT6w">https://t.co/nl8jmvXT6w</a></p>&mdash; ラーキー (@larkynote) <a href="https://twitter.com/larkynote/status/1528517008312385536?ref_src=twsrc%5Etfw">May 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### ヘキサチューブルについて
 
