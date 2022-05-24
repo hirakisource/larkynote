@@ -28,6 +28,7 @@
       - [ヘキサチューブルについて](#ヘキサチューブルについて)
         - [ヘキサチューブル談義](#ヘキサチューブル談義)
       - [「ある、いる、なる」について](#あるいるなるについて)
+      - [木の実と、食べる鳥と、見つめる鳥のお話](#木の実と食べる鳥と見つめる鳥のお話)
       - [トピック](#トピック)
         - [事実性に基づく思考](#事実性に基づく思考)
         - [SU(2)（複素二次元特殊ユニタリー変換群/エス・ユー・ツー）](#su2複素二次元特殊ユニタリー変換群エスユーツー)
@@ -232,6 +233,22 @@ URL移転日|2022年4月24日（日）|
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">大晦日にUPした「ある-いる-なる」の動画、割と評判がいいようだ。ここで紹介している大系観察子というのがヌースの構造論の土台のようなもので、この内部構造について細かく話して行くのがヌーソロジーだと思うといいよ。シュタイナー風に、<br><br>あるは体<br>いるは魂<br>なるは霊<br><br>と置き換えてもいいかもね。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1345546022408257537?ref_src=twsrc%5Etfw">January 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ヌース用語との対応は次の通り。<br><br>「あるもの」の世界………付帯質の外面<br>「いるもの」の世界………付帯質の内面への方向性<br>「なるもの」の世界………付帯質の内面<br><br>「ある」は「なる」を通してしか「ある」になれない。<br>そして、「なる」には「いる」を通してしか入れない。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1273798392431271936?ref_src=twsrc%5Etfw">June 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+#### 木の実と、食べる鳥と、見つめる鳥のお話
+
+半田さんがしばしば話されるウパニシャッドの木の実と鳥の話です。シリウス革命ではp.455-458に記載されています。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">『シリウス革命』でも紹介した、木の実と、木の実を食べる鳥と、その鳥を見つめている鳥、というウパニシャッドの逸話。物質世界とそれを経験している人間の意識と、その意識を見つめている意識。木の実の正体とは、実は、見つめる鳥であった。。ヌースの思考法の原点です。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1457165489063399427?ref_src=twsrc%5Etfw">November 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">物質が霊化するとはそういうことだ。<br><br>木の実と食べる鳥、そして、その傍らで食べる鳥をじっと見つづけている見つめる鳥。<br><br>見つめる鳥とは木の実であった。。。<br><br>という、あのウパニシャッドの逸話。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1213298795867295745?ref_src=twsrc%5Etfw">January 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">感覚されるもの、感覚するもの、感覚させるもの、という三幅対を考えてみよう。これらの関係性は『シリウス革命』で紹介した、木の実、食べる鳥、見つめる鳥の三者の関係と全く同じものだ。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/888939179974942722?ref_src=twsrc%5Etfw">July 23, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">●木の実と、食べる鳥と、見つめる鳥の具体的な生態について<br>　<a href="https://t.co/1Dw9uvc4ju">https://t.co/1Dw9uvc4ju</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/890046206109335552?ref_src=twsrc%5Etfw">July 26, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">●木の実と、食べる鳥と、見つめる鳥のお話、ふたたび。<a href="https://t.co/BB7BuUaI3U">https://t.co/BB7BuUaI3U</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/889372546864250881?ref_src=twsrc%5Etfw">July 24, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">木の実（スピン0）、木の実を食べる鳥（スピン1）、そして、その木の実を食べる鳥を見つめている鳥（スピン1/2）………。木の実を食べる鳥を見つめている鳥とは木の実であった。<br><br>『シリウス革命』で紹介したあのウパニシャッドの逸話が美しい幾何学となって現れているのが分かる。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1398445442812170245?ref_src=twsrc%5Etfw">May 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### トピック
 
@@ -563,6 +580,9 @@ p.93によれば、愛とは力というよりは位置。位置とは意識の�
 
 - アフォーダンス理論（シリウス革命p.246）
 アフォーダンス理論についての解説
+
+- 木の実と、食べる鳥と、見つめる鳥のお話（シリウス革命p.455-458）
+ウパニシャッドの逸話。
 
 ##### 『光の箱舟』について
 
