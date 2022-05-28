@@ -52,6 +52,7 @@
           - [関連ツイート](#関連ツイート)
         - [無核質の反映は植物](#無核質の反映は植物)
         - [垂質の双対性について](#垂質の双対性について)
+        - [電気について](#電気について)
         - [色即是空、空即是色](#色即是空空即是色)
         - [生命の樹について](#生命の樹について)
         - [ラカンのシェーマL](#ラカンのシェーマl)
@@ -636,6 +637,18 @@ p.93によれば、愛とは力というよりは位置。位置とは意識の�
 自分のツイートです。
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">人間の外面が四次元空間、人間の内面が四次元時空。人間の外面と内面は自己と他者においては反対になっている。自己の外面は他者の内面であり、他者の外面は自己の内面である。奥行きと幅、無限遠点（観測者、精神）と直線。幾何学による確かな認識。<a href="https://twitter.com/hashtag/%E3%83%8C%E3%83%BC%E3%82%BD%E3%83%AD%E3%82%B8%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#ヌーソロジー</a></p>&mdash; ラーキー🍎🐦🦜 (@larkynote) <a href="https://twitter.com/larkynote/status/1512213508028768260?ref_src=twsrc%5Etfw">April 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+##### 電気について
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">弛緩した幅空間の中では、この収縮した持続空間は素粒子として見えてしまう。シュタイナーが電気や磁気のことを堕落したエーテル体と呼ぶのもそのためだ。だからこそ、電磁力や核力を利用する科学技術のことを下自然と呼んでいると考えるといい。人間の文明は現在、下自然への落下を加速させている。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1318005202947952641?ref_src=twsrc%5Etfw">October 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">シュタイナーが電気や電磁場、放射能のことを堕落したエーテル体と呼ぶのは、本来、差異化の方向性に向かって働いている力が、時空側へと反転させられたものとして力を持っているからなのです。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/482366239478521857?ref_src=twsrc%5Etfw">June 27, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">面白いのは、シュタイナーが前-後と左-右の関係を東西と北南に対応させて語っていることだ。これはヌーソロジーとかなり被る。東西は電気的なもので、奥行きの対化と関係する。南北は磁気的なもので、幅の対化と関係する。電気的なものは時間と関係し、空間的なものは磁場と関係する。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/651941341232951296?ref_src=twsrc%5Etfw">October 8, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">電磁場が無意識構造として空間内に見えてくると、人間のコミュニケーション構造とダイレクトに関係しているもののように見えてくる。見ることと語ること。聞くことと想像すること。相互理解と相互共感。おそらく自然界に見られるあらゆる電気的活動は自他の語らいの場と繋がっているのではないか。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1360140047903674369?ref_src=twsrc%5Etfw">February 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">時間は電気的な力と関係し、空間は磁気的な力と関係しています。電荷とは奥行きが形成している持続体の力が時空上に現れたものです。プラスが他者性、マイナスが自己性。磁荷は3次元では同一化していますが、Nが自己性、Sが他者性です。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/708115684954247168?ref_src=twsrc%5Etfw">March 11, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ##### 色即是空、空即是色
 
