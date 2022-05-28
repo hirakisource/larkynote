@@ -19,7 +19,11 @@
       - [ヌーソロジーについて学ぶようになったきっかけ](#ヌーソロジーについて学ぶようになったきっかけ)
       - [半田広宣氏について](#半田広宣氏について)
       - [ヌーソロジーの学び方について](#ヌーソロジーの学び方について)
-        - [ヌーソロジーは炙り出し](#ヌーソロジーは炙り出し)
+        - [ヌーソロジーの注意点](#ヌーソロジーの注意点)
+          - [ヌーソロジーはほどほどに](#ヌーソロジーはほどほどに)
+          - [ヌーソロジーは炙り出し](#ヌーソロジーは炙り出し)
+          - [顕在化のヌースと潜在化のヌース](#顕在化のヌースと潜在化のヌース)
+          - [ヌーソロジーは淡々と](#ヌーソロジーは淡々と)
       - [半田広宣氏の書籍](#半田広宣氏の書籍)
       - [ヌーソロジー関連サイト（一部）](#ヌーソロジー関連サイト一部)
       - [ヌーソロジー版"三種の神器"](#ヌーソロジー版三種の神器)
@@ -153,11 +157,31 @@ URL移転日|2022年4月24日（日）|
 
 ヌーソロジーの[公式サイト](https://noos-academeia.com/)ではヌーソロジーに関するテキストが公開されていたり、関連書籍や過去に行われた講演のDVDなどが販売されています。また、公式のYouTubeチャンネルである[NoosAcademeia](https://www.youtube.com/channel/UCSUeMDLbghlODolafChfbgw)では、一部の講演などの動画が公開されています。半田さんは[ヌーソロジー・サロン](https://community.camp-fire.jp/projects/view/404531)というオンラインサロンもされていて、こちらでは半田さんに直接質問をすることもできます。
 
-##### ヌーソロジーは炙り出し
+##### ヌーソロジーの注意点
+
+###### ヌーソロジーはほどほどに
+
+ヌーソロジーはわかるところだけわかればよいと思います。わからないところを無理に解釈やイメージしようとするのは迷化と呼ばれる状態をもたらし、悲しみなどマイナスの感情として体験されます。わかるところが増えていくと、炙り出しのように半田さんの言われていることが見えてくるようになります。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">OCOTは人間が抱く悲しみの感情とは「迷化」だという。迷化とは生成からの遠ざかりである。時間と空間はその迷化を齎す迷路である。一方、喜びの感情とは「有機体の負荷」だという。有機体とはカタチを持たない精神のことで、これは時間と空間の中の光を指す。負荷とは生成への方向づけのことだ。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/633833931985416192?ref_src=twsrc%5Etfw">August 19, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+###### ヌーソロジーは炙り出し
 
 ヌーソロジーは[炙り出し](https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%B6%E3%82%8A%E3%81%A0%E3%81%97)のようなものだと言われています。ヌーソロジーで言われていることは最初はサッパリですが、事実性に基づいて、勝手な推測や妄想などを混ぜないで向き合っていると、次第に炙り出しのように自然とつながって浮かび上がってくる（何を言っているのかがわかってくる）ものだと思います。（ただし、自分なりにイメージしたり現実の感覚と照らし合わせることも大事だと思います。その結果としてヌーソロジーの理解が進む場合もあれば、派生として自分なりの世界観や知見が得られる場合もあると思います。各々の思想に関しては、混同せずに棲み分けることも大事だと思います。）
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ヌーソロジーの内容としては、今日は核質と無核質の意味が何となく分かったような分からないようなー、程度の話だったと思います。ヌーソロジーは炙り出しのようにしか分からない、と言うより炙り出しのように解像度が徐々に浮き上がってくるところが快感になってくるので、それでいいんです（笑）。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1423958123627257860?ref_src=twsrc%5Etfw">August 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+###### 顕在化のヌースと潜在化のヌース
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ヌーソロジーはカバーするジャンルが広いので、最初に理解に取り組もうとするとき、どうしても自分の慣れ親しんだジャンルの知識を通して、理解のきっかけをつかもうとしてしまう。それはそれで構わないんだけど、それらはあくまでも「潜在化」としてのヌースの機序だということを頭に入れておくこと。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1318405715875123200?ref_src=twsrc%5Etfw">October 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">別の言い方をするなら、ヌースを従来の何物かの説明に使おうとするときは「潜在化」のヌースを用いていて、それをチョクで空間思考と空間感情を含めて経験するときが「顕在化」のヌースと言っていいように思ってる。ヌースとは経験以前のものを発掘する作業だから。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1318410055780192256?ref_src=twsrc%5Etfw">October 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ちょっと言い訳も（笑）。<br>反転の空間認識を意識に立ち上げ、それを物質の構成と結びつけ、超越論的なものをその空間的経験の中に語っていくこと——それがヌーソロジーの本論だと思っているんだけど、コレ大げさじゃなて、人間の歴史には存在したことがない思考法。まぁ、だから「ヌース」なんだけど。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1195880369486065664?ref_src=twsrc%5Etfw">November 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+###### ヌーソロジーは淡々と
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">だから、ヌース本論は淡々と無機的な図式だけを使って説明を試みていると思うといいよ。無色透明、何の色もついていない。ついているのはOCOT色だけといったところかね（笑）</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1439780478203035653?ref_src=twsrc%5Etfw">September 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### 半田広宣氏の書籍
 
