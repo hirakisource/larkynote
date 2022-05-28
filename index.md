@@ -35,6 +35,7 @@
       - [木の実と、食べる鳥と、見つめる鳥のお話](#木の実と食べる鳥と見つめる鳥のお話)
       - [トピック](#トピック)
         - [事実性に基づく思考](#事実性に基づく思考)
+        - [感情について](#感情について)
         - [SU(2)（複素二次元特殊ユニタリー変換群/エス・ユー・ツー）](#su2複素二次元特殊ユニタリー変換群エスユーツー)
           - [半田さんのツイート](#半田さんのツイート)
           - [関連サイト](#関連サイト)
@@ -299,6 +300,28 @@ URL移転日|2022年4月24日（日）|
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ヌーソロジーの良いところは、このような超越的世界を物質との対応関係で思考していくところです。事実性にもとづいた思考とはそのことを指しています。つまり決して超越することなく、物質を自らの精神との関係を通して超越論的に思考していくということ。これからの科学もそうなっていくと思います。</p>— 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1457379073500467206?ref_src=twsrc%5Etfw">November 7, 2021</a></blockquote> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">この図で示しているカタチは誰にでもイメージできるものです。量子力学との対応は、あくまでも垂子・垂質といったヌーソロジーの次元概念の事実性を裏付けるための作業であって、量子力学が本質というわけではありません。本質はカタチの方です。このカタチを見極めて行くことが重要。</p>— 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1458957769445314581?ref_src=twsrc%5Etfw">November 12, 2021</a></blockquote> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+##### 感情について
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">OCOTは人間が抱く悲しみの感情とは「迷化」だという。迷化とは生成からの遠ざかりである。時間と空間はその迷化を齎す迷路である。一方、喜びの感情とは「有機体の負荷」だという。有機体とはカタチを持たない精神のことで、これは時間と空間の中の光を指す。負荷とは生成への方向づけのことだ。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/633833931985416192?ref_src=twsrc%5Etfw">August 19, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ついでに他の感情についても——。<br>　<br>悲しみとは。<br><br>交替化に迷化する方向のない次元。<br><br>喜びとは。<br><br>精神が心の方向に等化された共振場。<br><br>憎しみとは。<br><br>次元に方向をもたらしている重心がないもの。次元に関与することがない力。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1022054308857044992?ref_src=twsrc%5Etfw">July 25, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">美しさの感情とは、私たちが物の内部で自己自身として物と出会うところで生まれている。別に対象に美しさというものがあって、それを「私」という主観が感じとっているわけではない。自然の美は本来非人称的であり、物の自己意識のようなものだ。だからこそ人は自然の美の前に我を忘れるのだ。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1419148116440207364?ref_src=twsrc%5Etfw">July 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">KAZEさんが今日書いていたFacebookの記事。<br><br>共感は「認知的共感」と「情動的共感」という<br>２つに機能的に分けられる。<br>「認知的共感」は他者理解へと向かう意識的な働きだが<br>「情動的共感」は他者へ感情的に同期する<br>無意識的な情動的な働きだといえる。<br><br>この二つの共感の区別はとても大事。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1423802527460446209?ref_src=twsrc%5Etfw">August 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ヌースでは感じ取れる外界すべての世界のことを「人間の意識の内面」と言います。そこは思考・感情を含め、全て自我の世界です。そこから人間の意識の外面に向けて方向づけがなされ（Ω10）、そこに集合意識が存在し、さらに歩を進めるところに人間の意識の内面を送り出す力の領域（Ω9）があります。 <a href="https://t.co/Cj99tOx94S">https://t.co/Cj99tOx94S</a> <a href="https://t.co/Gn1zc2bbbA">pic.twitter.com/Gn1zc2bbbA</a></p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1194789851230433281?ref_src=twsrc%5Etfw">November 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">レクチャーでは「ヌーソロジーは生活の役には立たんよ」と敢えて言ってるのだが、実は結構、役立つこともある。一つ挙げるなら、怒りの感情が減少してくること。反転が見えてくると、フランチャイズにするべき意識の位置がハッキリと分かるのでイラツキが減ってくる。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1022044473331605504?ref_src=twsrc%5Etfw">July 25, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">エーテル空間が感覚化されてくることによって芽生える感情とは、おそらく感情の理念なのだと思う。すべての悲しみは一つの悲しみであり、すべての喜びは一つの喜びである。世界の至るところで、そして、時代の至るところで、そうやって悲しみや喜びがわたしになったり、あなたになったりしているのだ。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/291198702457061376?ref_src=twsrc%5Etfw">January 15, 2013</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【シュタイナー思想とヌーソロジー】（福田パート）<br>「魂」とは、私たちの思考や、感情や、意志の働きをもたらすものですが、この「魂」と「霊」とは違います。「霊」とは「魂」のさらに奥、さらに上位にある力で、私たちに「魂の働き」そのものをもたらしている力のことです。p.70</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/1064698838416449536?ref_src=twsrc%5Etfw">November 20, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">道徳の体制は強烈だ。スピノザはこの体制を支える三種類の人物を挙げる。まずは悲しみの受動的感情にとらえられた人間たち。次に、こうした人間たちを利用して自己の権力基盤とする人間たち。最後がそうした人間たちに憤慨したり、嘲笑を浴びせかけたり、同情したりする傍観者的な人間たち。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/207708178614460417?ref_src=twsrc%5Etfw">May 30, 2012</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">しかし、大多数の日本人は危険厨が発信するネット情報には不安や恐怖を必要以上に煽り立てるデマだといって怒りに近い感情を持って反応している。こうした反応が彼らの無意識の底に巣食っている「頽落」そのものが持った自己防衛であると言うのは言い過ぎだろうか。</p>&mdash; 半田広宣 (@kohsen) <a href="https://twitter.com/kohsen/status/149042426869329921?ref_src=twsrc%5Etfw">December 20, 2011</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ##### SU(2)（複素二次元特殊ユニタリー変換群/エス・ユー・ツー）
 
