@@ -1049,10 +1049,11 @@ https://qiita.com/Yarakashi_Kikohshi/items/407f85ba2835d945dd5b
 Twitter（ヌーソロジー用）|<a href="https://twitter.com/larkynote">https://twitter.com/larkynote</a>  |
 Twitter（情報共有・備忘録用）|<a href="https://twitter.com/hirakisource">https://twitter.com/hirakisource</a> |
 漫画|<a href="https://rookie.shonenjump.com/series/pGBIkZkx0Nw">100日後に読切を完成させるトラ（連載中）</a>|
+漫画|<a href="https://rookie.shonenjump.com/series/pGBIkZk_fM8">点Pの旅（読切）</a>|
 GitHub|[https://github.com/hirakisource](https://github.com/hirakisource)|
 GitHub Pages(hirakisource)|[https://hirakisource.github.io/hirakisource/](https://hirakisource.github.io/hirakisource/)|
 GitHub Pages(larkynote)|[https://hirakisource.github.io/larkynote/](https://hirakisource.github.io/larkynote/)|
-最近興味があるもの| 『差異と反復』（ドゥルーズ）、ベクトル、[宇宙際タイヒミュラー理論](https://ja.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E9%9A%9B%E3%82%BF%E3%82%A4%E3%83%92%E3%83%9F%E3%83%A5%E3%83%A9%E3%83%BC%E7%90%86%E8%AB%96) 、カタカムナ|
+最近興味があるもの| ルドルフ・シュタイナー、ひふみ神示、カタカムナ|
 好きな料理|実家の野菜ドライカレー、実家の玉ねぎと茄子の味噌炒め、実家のきんぴらごぼう|
 苦手な食品|カフェインを含むもの（コーヒー、緑茶など）、小麦、豚肉、牛肉、馬肉、ビタミン等栄養成分配合食品、[純水](https://ja.wikipedia.org/wiki/%E7%B4%94%E6%B0%B4)（単純な蒸留水以外の純水）|
 
