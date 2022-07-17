@@ -1044,12 +1044,11 @@ https://qiita.com/Yarakashi_Kikohshi/items/407f85ba2835d945dd5b
 :--|:--|
 名前|ラーキー（ニックネーム） |
 職業|システムエンジニア |
-趣味|ヌーソロジー、漫画（画力は低いです） |
+趣味|ヌーソロジー、家庭菜園、漫画（落書き） |
 著者近影| <img src="img/author.png" alt="著者近影" title="著者近影" width="50%" height="50%">|
 Twitter（ヌーソロジー用）|<a href="https://twitter.com/larkynote">https://twitter.com/larkynote</a>  |
 Twitter（情報共有・備忘録用）|<a href="https://twitter.com/hirakisource">https://twitter.com/hirakisource</a> |
-漫画|<a href="https://rookie.shonenjump.com/series/pGBIkZkx0Nw">100日後に読切を完成させるトラ（連載中）</a>|
-漫画|<a href="https://rookie.shonenjump.com/series/pGBIkZk_fM8">点Pの旅（読切）</a>|
+漫画|<a href="https://rookie.shonenjump.com/users/6871307331123611618">ラーキーの作品一覧  - ジャンプルーキー！</a>|
 GitHub|[https://github.com/hirakisource](https://github.com/hirakisource)|
 GitHub Pages(hirakisource)|[https://hirakisource.github.io/hirakisource/](https://hirakisource.github.io/hirakisource/)|
 GitHub Pages(larkynote)|[https://hirakisource.github.io/larkynote/](https://hirakisource.github.io/larkynote/)|
